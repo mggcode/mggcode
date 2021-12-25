@@ -1,14 +1,14 @@
 ### Hi there! I'm Marta Geraldo. 
 
 
-I’m learning to be better at  Front-end Developer and Java Developer daily.
+ I’m learning to be better at  Front-end Developer and Java Developer daily.
 
-I’m looking to collaborate with good people to add lasting values to growth-oriented organizations, through hard work and commitment...and also to work within a dynamic, motivating and enriching environment while developing more skills and competences, and applying all acquired in developing resources that will enhance the organization’s overall worth.
+ I’m looking to collaborate with good people to add lasting values to growth-oriented organizations, through hard work and commitment...and also to work within a dynamic, motivating and enriching environment while developing more skills and competences, and applying all acquired in developing resources that will enhance the organization’s overall worth.
 
 I'm available to jobs.
 
-My website is here https://martageraldo.netlify.app/
-Linkedin: https://br.linkedin.com/in/marta-geraldo
+My website is here https://martageraldo.netlify.app/ \
+Linkedin: https://br.linkedin.com/in/marta-geraldo \
 Codepen: https://codepen.io/martageraldo
 
 
