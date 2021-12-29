@@ -8,8 +8,11 @@
 I'm available to jobs.
 
 My website is here https://martageraldo.netlify.app/ \
-Linkedin: https://br.linkedin.com/in/marta-geraldo \
-Codepen: https://codepen.io/martageraldo
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marta-geraldo/)](https://www.linkedin.com/in/marta-geraldo/)
+[![card Badge](https://img.shields.io/badge/-Microsoft_Outlook-0078D4??style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:mggeraldo@hotmail.com)](mailto:mggeraldo@hotmail.com)
+[![Codepen Badge](https://img.shields.io/badge/-Codepen-black?style=flat-square&logo=Codepen&logoColor=white&link=https://codepen.io/martageraldo)](https://codepen.io/martageraldo)
+
 
 
 
