@@ -1,3 +1,5 @@
+
+[![Alt text](https://github.com/martageraldo/certificados/blob/main/certificados/logomgg/LOGOmggcode100.png)](https://github.com/martageraldo) 
 # **Hi there! I'm Marta Geraldo.** 
 
 
