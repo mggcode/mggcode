@@ -1,18 +1,21 @@
 
 [![Alt text](https://github.com/martageraldo/certificados/blob/main/certificados/logomgg/LOGOmggcode100.png)](https://github.com/martageraldo) 
-# **Hi there!** <img src="https://github.com/martageraldo/certificados/blob/main/certificados/logomgg/Hi.gif" width="50" height="50"> **I'm Marta Geraldo.** 
-
+# **Hi there!** <img src="https://github.com/martageraldo/certificados/blob/main/certificados/logomgg/Hi.gif" width="40"> **I'm Marta Geraldo.** 
+<br>
 
 
  ***I’m learning to be better at  Front-end Developer and Java Developer daily.***
  
  *  I like to explore new technologies and develop software solutions and quick hacks.
 
- I’m looking to collaborate with good people to add lasting values to growth-oriented organizations, through hard work and commitment...and also to work within a dynamic, motivating and enriching environment while developing more skills and competences, and applying all acquired in developing resources that will enhance the organization’s overall worth.
+ *  I’m looking to collaborate with good people to add lasting values to growth-oriented organizations, through hard work and commitment...and also to work within a dynamic, motivating and enriching environment while developing more skills and competences, and applying all acquired in developing resources that will enhance the organization’s overall worth.
 
-I'm available to jobs.
+* I'm available to help with projects. 
 
-## Connect with Me  
+<br>
+
+ ## <img src="https://github.com/martageraldo/certificados/blob/main/certificados/logomgg/FOLLOW.png" width="30"> Connect with Me  
+ <br>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marta-geraldo)](https://www.linkedin.com/in/marta-geraldo)
 [![Netlify Badge](https://img.shields.io/badge/Netlify-37aeba?style=flat-square&logo=Netlify&logoColor=white&link=https://martageraldo.netlify.app/)](https://martageraldo.netlify.app/)
@@ -20,9 +23,10 @@ I'm available to jobs.
 [![card Badge](https://img.shields.io/badge/-Microsoft_Outlook-0078D4??style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:mggeraldo@hotmail.com)](mailto:mggeraldo@hotmail.com)  
 
 
-
+<br> <br>
 
 ## Tech Stack  
+<br>
 
 [![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]() 
 [![CSS Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]() 
