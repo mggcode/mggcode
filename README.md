@@ -1,6 +1,6 @@
 
-[![Alt text](https://github.com/martageraldo/certificados/blob/main/certificados/logomgg/LOGOmggcode100.png)](https://github.com/martageraldo) 
-# **Hi there!** <img src="https://github.com/martageraldo/certificados/blob/main/certificados/logomgg/Hi.gif" width="40"> **I'm Marta Geraldo.** 
+
+# <img src="https://github.com/martageraldo/certificados/blob/main/certificados/logomgg/LOGOmggcode100.png" width="30"> **Hi there!** <img src="https://github.com/martageraldo/certificados/blob/main/certificados/logomgg/Hi.gif" width="40"> **I'm Marta Geraldo.** 
 <br>
 
 
@@ -50,14 +50,16 @@
 [![Visual Studio Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)]()
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]()
 
-
+<br>
 
 
 
 ## <img src="https://github.com/martageraldo/certificados/blob/main/certificados/logomgg/metrics.png" width="35"> GitHub Analytics 
-
+<br>
 
 [![ Badge](https://github-readme-stats.vercel.app/api?username=martageraldo)]()
+<br>
+<br>
 
 [![ Badge](https://github-readme-stats.vercel.app/api/top-langs/?username=martageraldo&theme=blue-green)]()
 
