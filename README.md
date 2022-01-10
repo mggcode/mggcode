@@ -54,7 +54,7 @@
 
 
 
-## GitHub Analytics
+## <img src="https://github.com/martageraldo/certificados/blob/main/certificados/logomgg/metrics.png" width="35"> GitHub Analytics 
 
 
 [![ Badge](https://github-readme-stats.vercel.app/api?username=martageraldo)]()
