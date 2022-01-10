@@ -25,7 +25,7 @@
 
 <br> <br>
 
-## Tech Stack  
+## <img src="https://github.com/martageraldo/certificados/blob/main/certificados/logomgg/lista.png" width="30"> Tech Stack  
 <br>
 
 [![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]() 
