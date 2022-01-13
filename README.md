@@ -4,13 +4,10 @@
 <br>
 
 
- ***I’m learning to be better at  Front-end Developer and Java Developer daily.***
- 
- *  I like to explore new technologies and develop software solutions and quick hacks.
-
- *  I’m looking to collaborate with good people to add lasting values to growth-oriented organizations, through hard work and commitment...and also to work within a dynamic, motivating and enriching environment while developing more skills and competences, and applying all acquired in developing resources that will enhance the organization’s overall worth.
-
-* I'm available to help with projects. 
+<p> Hi, I'm <a href="https://www.youtube.com/seu-canal-youtube-aqui" target="_blank">Marta<a/> , a passionate self-taught full stack web developer  from Brazil. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces.</p>
+<p>I like to explore new technologies and develop software solutions and quick hacks.</p>
+<p> I’m looking to collaborate with good people to add lasting values to growth-oriented organizations, through hard work and commitment...and also to work within a dynamic, motivating and enriching environment while developing more skills and competences, and applying all acquired in developing resources that will enhance the organization’s overall worth.</p>
+<p> I'm available to help with projects.</p> 
 
 <br>
 
@@ -60,6 +57,11 @@
 
 [![ Badge](https://github-readme-stats.vercel.app/api?username=martageraldo&show_icons=true&include_all_commits=true&count_private=true&theme=blue-green)]() 
 [![ Badge](https://github-readme-stats.vercel.app/api/top-langs/?username=martageraldo&include_all_langs=true&theme=blue-green)]()
+<br><br>
+![](https://visitor-badge.glitch.me/badge?page_id=martageraldo.martageraldo)
+<br>
+
+
 
 <!--
 <div>
