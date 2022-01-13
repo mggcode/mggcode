@@ -13,6 +13,8 @@
 * I'm available to help with projects. 
 
 <br>
+![Snake animation](https://github.com/martageraldo/martageraldo/blob/output/github-contribution-grid-snake.svg)
+<br>
 
  ## <img src="https://github.com/martageraldo/certificados/blob/main/certificados/logomgg/FOLLOW.png" width="30"> Connect with Me  
  <br>
@@ -57,15 +59,16 @@
 ## <img src="https://github.com/martageraldo/certificados/blob/main/certificados/logomgg/metrics.png" width="35"> GitHub Analytics 
 <br>
 
-[![ Badge](https://github-readme-stats.vercel.app/api?username=martageraldo)]()
-<br>
-<br>
+[![ Badge](https://github-readme-stats.vercel.app/api?username=martageraldo&show_icons=true&include_all_commits=true&count_private=true&theme=blue-green)]() 
+[![ Badge](https://github-readme-stats.vercel.app/api/top-langs/?username=martageraldo&include_all_langs=true&theme=blue-green)]()
 
-[![ Badge](https://github-readme-stats.vercel.app/api/top-langs/?username=martageraldo&theme=blue-green)]()
-
-
-
-
+<!--
+<div>
+<a href="https://github.com/martageraldo">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martageraldo&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=martageraldo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+-->
 
 
 
