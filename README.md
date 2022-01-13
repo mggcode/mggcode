@@ -59,8 +59,9 @@
 [![ Badge](https://github-readme-stats.vercel.app/api/top-langs/?username=martageraldo&include_all_langs=true&theme=blue-green)]()
 <br><br>
 
-<br><br>[](https://github.com/martageraldo/githubsnake/blob/main/snake/index.html)
-![Snake animation](https://github.com/martageraldo/martageraldo/blob/output/github-contribution-grid-snake.svg)
+<br><br>
+
+
 <br>
 <br>
 ![](https://visitor-badge.glitch.me/badge?page_id=martageraldo.martageraldo)
