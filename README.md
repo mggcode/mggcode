@@ -13,8 +13,7 @@
 * I'm available to help with projects. 
 
 <br>
-![Snake animation](https://github.com/martageraldo/martageraldo/blob/output/github-contribution-grid-snake.svg)
-<br>
+
 
  ## <img src="https://github.com/martageraldo/certificados/blob/main/certificados/logomgg/FOLLOW.png" width="30"> Connect with Me  
  <br>
