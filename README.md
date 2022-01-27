@@ -11,14 +11,23 @@
 
 <br>
 
-
+<!--
  ## <img src="https://github.com/martageraldo/certificados/blob/main/certificados/logomgg/FOLLOW.png" width="30"> Connect with Me  
  <br>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marta-geraldo)](https://www.linkedin.com/in/marta-geraldo)
 [![Netlify Badge](https://img.shields.io/badge/Netlify-37aeba?style=flat-square&logo=Netlify&logoColor=white&link=https://martageraldo.netlify.app/)](https://martageraldo.netlify.app/)
 [![Codepen Badge](https://img.shields.io/badge/-Codepen-black?style=flat-square&logo=Codepen&logoColor=white&link=https://codepen.io/martageraldo)](https://codepen.io/martageraldo)
-[![card Badge](https://img.shields.io/badge/-Microsoft_Outlook-0078D4??style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:mggeraldo@hotmail.com)](mailto:mggeraldo@hotmail.com)  
+[![card Badge](https://img.shields.io/badge/-Microsoft_Outlook-0078D4??style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:mggeraldo@hotmail.com)](mailto:mggeraldo@hotmail.com)  -->
+
+## <img src="https://github.com/martageraldo/certificados/blob/main/certificados/logomgg/FOLLOW.png" width="30"> Connect with Me
+<br>
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=social-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marta-geraldo/)](https://www.linkedin.com/in/marta-geraldo/)
+[![Codepen Badge](https://img.shields.io/badge/-Codepen-black?style=social-square&logo=Codepen&logoColor=white&link=https://codepen.io/martageraldo)](https://codepen.io/martageraldo)
+[![card Badge](https://img.shields.io/badge/-Hotmail-0078D4??style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:mggeraldo@hotmail.com)](mailto:mggeraldo@hotmail.com) 
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=social-square&logo=Github&logoColor=white&link=https://github.com/martageraldo)](https://github.com/martageraldo)
+[![Netlify Badge](https://img.shields.io/badge/-Netlify-00C7B7?style=social-square&logo=netlify&logoColor=white)](https://martageraldo.netlify.app/)
 
 
 <br> <br>
@@ -26,27 +35,30 @@
 ## <img src="https://github.com/martageraldo/certificados/blob/main/certificados/logomgg/lista.png" width="30"> Tech Stack  
 <br>
 
-[![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]() 
-[![CSS Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]() 
-[![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
-[![Typescript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)]()
-[![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)]()
-[![Java Badge](https://img.shields.io/badge/Java-f90404?style=for-the-badge&logo=java&logoColor=white)]()
-[![Markdown Badge](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)]()
-[![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)]()
-[![Python Badge](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)]()
-[![Material--UI Badge](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)]()
-[![MySql Badge](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)]()
-[![Figma Badge](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)]() 
-[![Gimp Badge](https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white)]()
-[![Inskape Badge](https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white)]()
-[![Gradle Badge](https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)]()
-[![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)]()
-[![Xamp Badge](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white)]()
-[![Intellij Badge](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)]()
-[![Notepadd++ Badge](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)]()
-[![Visual Studio Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)]()
-[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]()
+[![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=social-square&logo=html5&logoColor=white)]() 
+[![CSS Badge](https://img.shields.io/badge/CSS3-1572B6?style=social-square&logo=css3&logoColor=white)]() 
+[![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=social-square&logo=javascript&logoColor=black)]()
+[![Typescript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=social-square&logo=typescript&logoColor=white)]()
+[![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=social-square&logo=sass&logoColor=white)]()
+[![Java Badge](https://img.shields.io/badge/Java-f90404?style=social-square&logo=java&logoColor=white)]()
+[![Markdown Badge](https://img.shields.io/badge/Markdown-000000?style=social-square&logo=markdown&logoColor=white)]()
+[![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=social-square&logo=bootstrap&logoColor=white)]()
+[![Python Badge](https://img.shields.io/badge/Python-14354C?style=social-square&logo=python&logoColor=white)]()
+[![Material--UI Badge](https://img.shields.io/badge/Material--UI-0081CB?style=social-square&logo=material-ui&logoColor=white)]()
+[![MySql Badge](https://img.shields.io/badge/MySQL-00000F?style=social-square&logo=mysql&logoColor=white)]()
+[![Figma Badge](https://img.shields.io/badge/Figma-F24E1E?style=social-square&logo=figma&logoColor=white)]() 
+[![Gimp Badge](https://img.shields.io/badge/gimp-5C5543?style=social-square&logo=gimp&logoColor=white)]()
+[![Inskape Badge](https://img.shields.io/badge/Inkscape-000000?style=social-square&logo=Inkscape&logoColor=white)]()
+[![Gradle Badge](https://img.shields.io/badge/gradle-02303A?style=social-square&logo=gradle&logoColor=white)]()
+[![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?style=social-square&logo=spring&logoColor=white)]()
+[![Xamp Badge](https://img.shields.io/badge/Xampp-F37623?style=social-square&logo=xampp&logoColor=white)]()
+[![Intellij Badge](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=social-square&logo=intellij-idea&logoColor=white)]()
+[![Notepadd++ Badge](https://img.shields.io/badge/Notepad++-90E59A.svg?style=social-square&logo=notepad%2B%2B&logoColor=black)]()
+[![Visual Studio Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=social-square&logo=visual%20studio%20code&logoColor=white)]()
+[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=social-square&logo=github&logoColor=white)]()
+[![Node Js Badge](https://img.shields.io/badge/Node.js-43853D?style=social-square&logo=node.js&logoColor=white)]()
+[![Typescript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=social-square&logo=typescript&logoColor=white)]()
+[![JQuery Badge](https://img.shields.io/badge/jQuery-0769AD?style=style=social-square&logo=jquery&logoColor=white)]()
 
 <br>
 
