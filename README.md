@@ -78,7 +78,7 @@
 
 <br><br>
 
-[![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
+[![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-0078D4.svg)](http://commonmark.org)
 <br>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=martageraldo.martageraldo)
