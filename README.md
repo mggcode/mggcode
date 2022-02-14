@@ -59,6 +59,11 @@
 [![Node Js Badge](https://img.shields.io/badge/Node.js-43853D?style=social-square&logo=node.js&logoColor=white)]()
 [![Typescript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=social-square&logo=typescript&logoColor=white)]()
 [![JQuery Badge](https://img.shields.io/badge/jQuery-0769AD?style=style=social-square&logo=jquery&logoColor=white)]()
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-CF96FD.svg?style=social-square&logo=intellij-idea&logoColor=black)
+![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=social-square&logo=Eclipse&logoColor=white)
+![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=social-square&logo=sublime-text&logoColor=important)
+![MySql](https://img.shields.io/badge/MySQL-0078D4?style=social-square&logo=mysql&logoColor=white)
+
 
 <br>
 
