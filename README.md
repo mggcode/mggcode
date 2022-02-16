@@ -74,6 +74,8 @@
 
 [![ Badge](https://github-readme-stats.vercel.app/api?username=martageraldo&show_icons=true&include_all_commits=true&count_private=true&theme=blue-green)]() 
 [![ Badge](https://github-readme-stats.vercel.app/api/top-langs/?username=martageraldo&include_all_langs=true&theme=blue-green)]()
+
+
 <br><br>
 
 <br><br>
