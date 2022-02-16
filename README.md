@@ -1,8 +1,9 @@
 
 
-# <img src="https://github.com/martageraldo/certificados/blob/main/certificados/logomgg/LOGOmggcode100.png" width="30"> **Hi there!** <img src="https://github.com/martageraldo/certificados/blob/main/certificados/logomgg/Hi.gif" width="40"> **I'm Marta Geraldo.** 
+# <img src="https://github.com/martageraldo/certificados/blob/main/certificados/logomgg/LOGOmggcode100.png" width="30"> **Hi there!** <img src="https://github.com/martageraldo/certificados/blob/main/certificados/logomgg/Hi.gif" width="40"> **I'm Marta Geraldo.**                         <img  src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200">
 <br>
 
+ 
 
 <p> Hi, I'm <a href="https://martageraldo.netlify.app/" target="_blank">Marta<a/> , a passionate self-taught web developer from Brazil. My fascination for software lies with dreaming up ideas and making them come true with sophisticated interfaces.</p>
 <p>I like to explore new technologies and develop software solutions and quick hacks.</p>
