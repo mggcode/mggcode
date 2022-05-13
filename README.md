@@ -26,7 +26,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=social-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marta-geraldo/)](https://www.linkedin.com/in/marta-geraldo/)
 [![Codepen Badge](https://img.shields.io/badge/-Codepen-black?style=social-square&logo=Codepen&logoColor=white&link=https://codepen.io/martageraldo)](https://codepen.io/martageraldo)
-[![card Badge](https://img.shields.io/badge/-Hotmail-0078D4??style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:mggeraldo@hotmail.com)](mailto:mggeraldo@hotmail.com) 
+[![card Badge](https://img.shields.io/badge/ProtonMail-8B89CC?style=social-square&logo=protonmail&logoColor=white)](mailto:mggeraldo@protonmail.com)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=social-square&logo=Github&logoColor=white&link=https://github.com/martageraldo)](https://github.com/martageraldo)
 [![Netlify Badge](https://img.shields.io/badge/-Netlify-00C7B7?style=social-square&logo=netlify&logoColor=white)](https://martageraldo.netlify.app/)
 
