@@ -88,6 +88,9 @@
 
 <br>
 
+<!--START_SECTION:waka-->
+<!--START_SECTION:waka-->
+
 ## Snake
 
 ![Snake animation](https://github.com/martageraldo/martageraldo/blob/output/github-contribution-grid-snake.svg)
