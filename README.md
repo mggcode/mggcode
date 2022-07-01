@@ -1,7 +1,11 @@
+![Visitor Count](https://profile-counter.glitch.me/martageraldo/count.svg)
 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
 
-# <img src="https://github.com/martageraldo/certificados/blob/main/certificados/logomgg/LOGOmggcode100.png" width="30"> **Hi there!** <img src="https://github.com/martageraldo/certificados/blob/main/certificados/logomgg/Hi.gif" width="40"> <br> 
-# I'm Marta Geraldo.                         
+# <img src="https://github.com/martageraldo/certificados/blob/main/certificados/logomgg/LOGOmggcode100.png" width="30"> **Hi there!** <img src="https://github.com/martageraldo/certificados/blob/main/certificados/logomgg/Hi.gif" width="40">
+
+# I'm Marta Geraldo. 
+
 <br>
 
  <img  src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="150">
@@ -22,7 +26,10 @@
 [![Codepen Badge](https://img.shields.io/badge/-Codepen-black?style=flat-square&logo=Codepen&logoColor=white&link=https://codepen.io/martageraldo)](https://codepen.io/martageraldo)
 [![card Badge](https://img.shields.io/badge/-Microsoft_Outlook-0078D4??style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:mggeraldo@hotmail.com)](mailto:mggeraldo@hotmail.com)  -->
 
-## <img src="https://github.com/martageraldo/certificados/blob/main/certificados/logomgg/FOLLOW.png" width="30"> Connect with Me
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
+
+## <img src="https://github.com/martageraldo/certificados/blob/main/certificados/logomgg/FOLLOW.png" width="30"> Connect with Me <img src="https://www.animatedimages.org/data/media/56/animated-computer-image-0077.gif" width="50" height=""></img>
+
 <br>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=social-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marta-geraldo/)](https://www.linkedin.com/in/marta-geraldo/)
@@ -72,33 +79,30 @@
 
 
 ## <img src="https://github.com/martageraldo/certificados/blob/main/certificados/logomgg/metrics.png" width="35"> GitHub Analytics 
+<details>
+<summary>Expand</summary>
 <br>
 
 [![ Badge](https://github-readme-stats.vercel.app/api?username=martageraldo&show_icons=true&include_all_commits=true&count_private=true&theme=blue-green)]() 
 [![ Badge](https://github-readme-stats.vercel.app/api/top-langs/?username=martageraldo&include_all_langs=true&theme=blue-green)]()
 
+</details>
 
+---
 <br><br>
 
-<br><br>
-
-[![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-0078D4.svg)](http://commonmark.org)
-<br>
-
-![](https://visitor-badge.glitch.me/badge?page_id=martageraldo.martageraldo)
 
 <br>
 
-<!--START_SECTION:waka-->
-<!--START_SECTION:waka-->
-
-## Snake
-
-![Snake animation](https://github.com/martageraldo/martageraldo/blob/output/github-contribution-grid-snake.svg)
 
 
+## <img src="https://www.animatedimages.org/data/media/466/animated-thank-you-image-0156.gif" width="60px;" height="60px" alt="thanks"/>  My Followers
 
-## <img src="https://c.tenor.com/6KExoiWGfwIAAAAj/ok-thank-great-thanks.gif" width="60px;" height="50px" alt="thanks"/>  My Followers
+<details>
+<summary>Expand</summary>
+
+<br>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0370.gif" width="1920" height="5px"></img>
 
 <br>
 <br>
@@ -259,6 +263,23 @@
     </td>
   </tr>
 </table>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0370.gif" width="1920" height="5px"></img>
+
+</details>
+
+---
+<br><br>
+
+
+
+![Snake animation](https://github.com/martageraldo/martageraldo/blob/output/github-contribution-grid-snake.svg)
+
+<br>
+<br>
+
+[![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-0078D4.svg)](http://commonmark.org) ![](https://visitor-badge.glitch.me/badge?page_id=martageraldo.martageraldo)
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
 <!--END_SECTION:top-followers-->
 
 
