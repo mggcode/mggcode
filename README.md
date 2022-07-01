@@ -96,17 +96,170 @@
 ![Snake animation](https://github.com/martageraldo/martageraldo/blob/output/github-contribution-grid-snake.svg)
 
 
-MY FOLLOWERS
+
+## <img src="https://c.tenor.com/6KExoiWGfwIAAAAj/ok-thank-great-thanks.gif" width="60px;" height="50px" alt="thanks"/>  My Followers
+
+<br>
+<br>
+
 <!--START_SECTION:top-followers-->
 <table>
   <tr>
     <td align="center">
       <a href="https://github.com/natasha9999">
-        <img src="https://avatars.githubusercontent.com/u/41237503?v=4" width="100px;" alt="natasha9999"/>
+        <img src="https://avatars.githubusercontent.com/u/41237503?v=4" width="50px;" alt="natasha9999"/>
       </a>
       <br />
       <a href="https://github.com/snowdream">snowdream</a>
     </td>
+    <td align="center">
+      <a href="https://github.com/kareenketleen">
+        <img src="https://avatars.githubusercontent.com/u/16778466?v=4" width="50px;" alt="kareenketleen"/>
+      </a>
+      <br />
+      <a href="https://github.com/kareenketleen">kareenketleen</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/andreysmattos">
+        <img src="https://avatars.githubusercontent.com/u/27871595?v=4" width="50px;" alt="andreysmattos"/>
+      </a>
+      <br />
+      <a href="https://github.com/andreysmattos">Andreys Mattos</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Jofrejaime">
+        <img src="https://avatars.githubusercontent.com/u/91161712?v=4" width="50px;" alt="bitmote"/>
+      </a>
+      <br />
+      <a href="https://github.com/Jofrejaime">Jofre Jaime</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/AYIDouble">
+        <img src="https://avatars.githubusercontent.com/u/18186995?v=4" width="50px;" alt="Alpay Yildirim"/>
+      </a>
+      <br />
+      <a href="https://github.com/AYIDouble">Alpay Yildirim</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/waghcwb">
+        <img src="https://avatars.githubusercontent.com/u/6169950?v=4" width="50px;" alt="waghcwb"/>
+      </a>
+      <br />
+      <a href="https://github.com/waghcwb">Wagner Souza</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Eduardo-coder">
+        <img src="https://avatars.githubusercontent.com/u/57602731?v=4" width="50px;" alt="Eduardo-coder"/>
+      </a>
+      <br />
+      <a href="https://github.com/Eduardo-coder">Eduardo-coder</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/artnomic">
+        <img src="https://avatars.githubusercontent.com/u/76923681?v=4" width="50px;" alt="artnomic"/>
+      </a>
+      <br />
+      <a href="https://github.com/artnomic">Arthur Pereira</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/jadeabina">
+        <img src="https://avatars.githubusercontent.com/u/72051334?v=4" width="50px;" alt="sjadeabina"/>
+      </a>
+      <br />
+      <a href="https://github.com/jadeabina">jade abinajm</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/AlphaTechnolog">
+        <img src="https://avatars2.githubusercontent.com/u/54639968" width="50px;" alt="AlphaTechnolog"/>
+      </a>
+      <br />
+      <a href="https://github.com/AlphaTechnolog">Gabriel Guerra</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/marcelapereirads">
+        <img src="https://avatars.githubusercontent.com/u/47563182?v=4" width="50px;" alt="marcelapereirads"/>
+      </a>
+      <br />
+      <a href="https://github.com/marcelapereirads">Marcela</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/cami-la">
+        <img src="https://avatars.githubusercontent.com/u/64323124?v=4" width="50px;" alt="cami-la"/>
+      </a>
+      <br />
+      <a href="https://github.com/cami-la">Camila Cavalcante</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/BrunoYottabyte">
+        <img src="https://avatars.githubusercontent.com/u/70710358?v=4" width="50px;" alt="BrunoYottabyte"/>
+      </a>
+      <br />
+      <a href="https://github.com/BrunoYottabyte">Bruno dos Santos</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/motasimbillah628">
+        <img src="https://avatars2.githubusercontent.com/u/12059800" width="50px;" alt="motasimbillah628"/>
+      </a>
+      <br />
+      <a href="https://github.com/motasimbillah628">motasimbillah628</a>
+    </td>
+  </tr>
+  <td align="center">
+      <a href="https://github.com/biettodev">
+        <img src="https://avatars.githubusercontent.com/u/52298443?v=4" width="50px;" alt="biettodev"/>
+      </a>
+      <br />
+      <a href="https://github.com/biettodev">Gabriel Carrilho</a>
+    </td>
+  <td align="center">
+      <a href="https://github.com/Andrei-Torres">
+        <img src="https://avatars.githubusercontent.com/u/70658321?v=4" width="50px;" alt="Andrei-Torres"/>
+      </a>
+      <br/>
+      <a href="https://github.com/Andrei-Torres">Andrei-Torres</a>
+    </td>
+ 
+  <td align="center">
+      <a href="https://github.com/neodigm">
+        <img src="https://avatars.githubusercontent.com/u/3151842?v=4" width="50px;" alt="neodigm"/>
+      </a>
+      <br />
+      <a href="https://github.com/neodigm">Scott C. Krause</a>
+    </td>
+  <td align="center">
+      <a href="https://github.com/anita-walker">
+        <img src="https://avatars.githubusercontent.com/u/65529363?v=4" width="50px;" alt="anita-walker"/>
+      </a>
+      <br />
+      <a href="https://github.com/anita-walker">Anita Walker</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/HakaCode">
+        <img src="https://avatars.githubusercontent.com/u/33907565?v=4" width="50px;" alt="HakaCode"/>
+      </a>
+      <br />
+      <a href="https://github.com/HakaCode">William Sandres</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/RODRIGOF3RREIRA">
+        <img src="https://avatars.githubusercontent.com/u/62449918?v=4" width="50px;" alt="RODRIGOF3RREIRA"/>
+      </a>
+      <br />
+      <a href="https://github.com/RODRIGOF3RREIRA">Rodrigo Ferreira</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/SheilaFernandes">
+        <img src="https://avatars.githubusercontent.com/u/66555468?v=4" width="50px;" alt="RODRIGOF3RREIRA"/>
+      </a>
+      <br />
+      <a href="https://github.com/SheilaFernandes">Sheila</a>
+    </td>
+  </tr>
+</table>
+<!--END_SECTION:top-followers-->
+
 
 <!--
 <div>
