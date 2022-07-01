@@ -96,18 +96,18 @@
 ![Snake animation](https://github.com/martageraldo/martageraldo/blob/output/github-contribution-grid-snake.svg)
 
 
-<!--
+MY FOLLOWERS
 <!--START_SECTION:top-followers-->
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/snowdream">
-        <img src="https://avatars2.githubusercontent.com/u/737958" width="100px;" alt="snowdream"/>
+      <a href="https://github.com/natasha9999">
+        <img src="https://avatars.githubusercontent.com/u/41237503?v=4" width="100px;" alt="natasha9999"/>
       </a>
       <br />
       <a href="https://github.com/snowdream">snowdream</a>
     </td>
--->
+
 <!--
 <div>
 <a href="https://github.com/martageraldo">
