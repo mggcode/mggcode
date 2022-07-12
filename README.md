@@ -255,12 +255,19 @@
     </td>
     <td align="center">
       <a href="https://github.com/SheilaFernandes">
-        <img src="https://avatars.githubusercontent.com/u/66555468?v=4" width="50px;" alt="RODRIGOF3RREIRA"/>
+        <img src="https://avatars.githubusercontent.com/u/66555468?v=4" width="50px;" alt="Sheila Fernandes"/>
       </a>
       <br />
       <a href="https://github.com/SheilaFernandes">Sheila</a>
     </td>
   </tr>
+  <td align="center">
+      <a href="https://github.com/levi-pires">
+        <img src="https://avatars.githubusercontent.com/u/66280621?v=4" width="50px;" alt="Levi Pires"/>
+      </a>
+      <br />
+      <a href="https://github.com/levi-pires">Levi Pires</a>
+    </td>
 </table>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0370.gif" width="1920" height="5px"></img>
 
