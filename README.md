@@ -268,6 +268,20 @@
       <br />
       <a href="https://github.com/levi-pires">Levi Pires</a>
     </td>
+    <td align="center">
+      <a href="https://github.com/darlonqueiroz">
+        <img src="https://avatars.githubusercontent.com/u/57970580?v=4" width="50px;" alt="Darlon Queiroz"/>
+      </a>
+      <br />
+      <a href="https://github.com/darlonqueiroz">Darlon Queiroz</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/davidjeune">
+        <img src="https://avatars.githubusercontent.com/u/68981313?v=4" width="50px;" alt="davidjeune"/>
+      </a>
+      <br />
+      <a href="https://github.com/davidjeune">davidjeune</a>
+    </td>
 </table>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0370.gif" width="1920" height="5px"></img>
 
