@@ -282,6 +282,34 @@
       <br />
       <a href="https://github.com/davidjeune">davidjeune</a>
     </td>
+    <td align="center">
+      <a href="https://github.com/Print-TesteServer">
+        <img src="https://avatars.githubusercontent.com/u/64716025?v=4" width="50px;" alt="Matheus"/>
+      </a>
+      <br />
+      <a href="https://github.com/Print-TesteServer">Matheus</a>
+    </td>
+     <td align="center">
+      <a href="https://github.com/crisromanator">
+        <img src="https://avatars.githubusercontent.com/u/61890943?v=4" width="50px;" alt="crisromanato"/>
+      </a>
+      <br />
+      <a href="https://github.com/crisromanato">Cristina</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Fernando-Rodrigo">
+        <img src="https://avatars.githubusercontent.com/u/49997831?v=4" width="50px;" alt="Fernando-Rodrigo"/>
+      </a>
+      <br />
+      <a href="https://github.com/Fernando-Rodrigo">Fernando-Rodrigo</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/samuel2na">
+        <img src="https://avatars.githubusercontent.com/u/49997831?v=4" width="50px;" alt="samuel2na"/>
+      </a>
+      <br />
+      <a href="https://github.com/samuel2na">samuel2na</a>
+    </td>
 </table>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0370.gif" width="1920" height="5px"></img>
 
