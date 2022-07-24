@@ -1,6 +1,6 @@
 <!--![Visitor Count](https://profile-counter.glitch.me/martageraldo/count.svg)-->
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="990" />
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="990" height="2,5"/>
 
 # <img src="https://github.com/martageraldo/certificados/blob/main/certificados/logomgg/LOGOmggcode100.png" width="30"> **Hi there!** <img src="https://github.com/martageraldo/certificados/blob/main/certificados/logomgg/Hi.gif" width="40">
 
