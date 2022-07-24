@@ -321,7 +321,7 @@
     </td>
     <td align="center">
       <a href="https://github.com/samuel2na">
-        <img src="https://avatars.githubusercontent.com/u/49997831?v=4" width="50px;" alt="samuel2na"/>
+        <img src="https://avatars.githubusercontent.com/u/59999295?v=4" width="50px;" alt="samuel2na"/>
       </a>
       <br />
       <a href="https://github.com/samuel2na">samuel2na</a>
