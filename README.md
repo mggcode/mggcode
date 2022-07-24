@@ -1,6 +1,6 @@
 <!--![Visitor Count](https://profile-counter.glitch.me/martageraldo/count.svg)-->
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="920" height=""></img>
 
 # <img src="https://github.com/martageraldo/certificados/blob/main/certificados/logomgg/LOGOmggcode100.png" width="30"> **Hi there!** <img src="https://github.com/martageraldo/certificados/blob/main/certificados/logomgg/Hi.gif" width="40">
 
@@ -26,7 +26,7 @@
 [![Codepen Badge](https://img.shields.io/badge/-Codepen-black?style=flat-square&logo=Codepen&logoColor=white&link=https://codepen.io/martageraldo)](https://codepen.io/martageraldo)
 [![card Badge](https://img.shields.io/badge/-Microsoft_Outlook-0078D4??style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:mggeraldo@hotmail.com)](mailto:mggeraldo@hotmail.com)  -->
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="920" height=""></img>
 
 ## <img src="https://github.com/martageraldo/certificados/blob/main/certificados/logomgg/FOLLOW.png" width="30"> Connect with Me <img src="https://www.animatedimages.org/data/media/56/animated-computer-image-0077.gif" width="50" height=""></img>
 
@@ -44,22 +44,21 @@
 ## <img src="https://github.com/martageraldo/certificados/blob/main/certificados/logomgg/lista.png" width="30"> Tech Stack  
 <br>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width= "30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width= "30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width= "30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width= "30"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width= "30"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width= "30"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" width= "30"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width= "30"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width= "30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width= "30"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width= "30"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg"  width= "30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width= "30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"  width= "30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width= "30"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width= "30"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width= "30"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width= "30"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width= "30"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width= "30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" width= "30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width= "30"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width= "30"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width= "30"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width= "30"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg"  width= "30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width= "30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"  width= "30"/>
           
           
            
-          
-           
+  <br>        
+  <br>         
           
  
  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original-wordmark.svg" width= "30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original-wordmark.svg" width= "30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width= "30"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width= "30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original-wordmark.svg" width= "30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width= "30" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width= "30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width= "30"/><img src="https://raw.githubusercontent.com/martageraldo/awesome-badges/f2e698d53e403180c7d390f97745e3e794ada8aa/img/inkscape.svg" width= "30"/>
          
 
+<br>
 
-
-
-[![Inskape Badge](https://img.shields.io/badge/Inkscape-000000?style=social-square&logo=Inkscape&logoColor=white)]()
+<br>
 
 
 
@@ -321,7 +320,7 @@
 
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-0078D4.svg)](http://commonmark.org) ![](https://visitor-badge.glitch.me/badge?page_id=martageraldo.martageraldo)
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="920" height=""></img>
 <!--END_SECTION:top-followers-->
 
 
