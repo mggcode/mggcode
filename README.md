@@ -1,6 +1,6 @@
 <!--![Visitor Count](https://profile-counter.glitch.me/martageraldo/count.svg)-->
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="920" height=""></img>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1020" height=""></img>
 
 # <img src="https://github.com/martageraldo/certificados/blob/main/certificados/logomgg/LOGOmggcode100.png" width="30"> **Hi there!** <img src="https://github.com/martageraldo/certificados/blob/main/certificados/logomgg/Hi.gif" width="40">
 
@@ -26,7 +26,7 @@
 [![Codepen Badge](https://img.shields.io/badge/-Codepen-black?style=flat-square&logo=Codepen&logoColor=white&link=https://codepen.io/martageraldo)](https://codepen.io/martageraldo)
 [![card Badge](https://img.shields.io/badge/-Microsoft_Outlook-0078D4??style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:mggeraldo@hotmail.com)](mailto:mggeraldo@hotmail.com)  -->
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="920" height=""></img>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1020" height=""></img>
 
 ## <img src="https://github.com/martageraldo/certificados/blob/main/certificados/logomgg/FOLLOW.png" width="30"> Connect with Me <img src="https://www.animatedimages.org/data/media/56/animated-computer-image-0077.gif" width="50" height=""></img>
 
@@ -94,7 +94,7 @@
 <summary>Expand</summary>
 
 <br>
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0370.gif" width="1920" height="5px"></img>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0370.gif" width="1020" height="5px"></img>
 
 <br>
 <br>
@@ -108,6 +108,20 @@
       </a>
       <br />
       <a href="https://github.com/snowdream">snowdream</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/devcarolis">
+        <img src="https://avatars.githubusercontent.com/u/109559401?v=4" width="50px;" alt="devcarolis"/>
+      </a>
+      <br />
+      <a href="https://github.com/devcarolis">devcarolis</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Cleidianaa">
+        <img src="https://avatars.githubusercontent.com/u/84573782?v=4" width="50px;" alt="Cleidianaa"/>
+      </a>
+      <br />
+      <a href="https://github.com/Cleidianaa">Cleidianaa</a>
     </td>
     <td align="center">
       <a href="https://github.com/kareenketleen">
@@ -161,6 +175,13 @@
       <a href="https://github.com/artnomic">Arthur Pereira</a>
     </td>
     <td align="center">
+      <a href="https://github.com/edibrum">
+        <img src="https://avatars.githubusercontent.com/u/106160411?v=4" width="50px;" alt="edibrum"/>
+      </a>
+      <br />
+      <a href="https://github.com/edibrum">edibrum</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/jadeabina">
         <img src="https://avatars.githubusercontent.com/u/72051334?v=4" width="50px;" alt="sjadeabina"/>
       </a>
@@ -202,7 +223,7 @@
       <br />
       <a href="https://github.com/motasimbillah628">motasimbillah628</a>
     </td>
-  </tr>
+  
   <td align="center">
       <a href="https://github.com/biettodev">
         <img src="https://avatars.githubusercontent.com/u/52298443?v=4" width="50px;" alt="biettodev"/>
@@ -210,6 +231,7 @@
       <br />
       <a href="https://github.com/biettodev">Gabriel Carrilho</a>
     </td>
+    </tr>
   <td align="center">
       <a href="https://github.com/Andrei-Torres">
         <img src="https://avatars.githubusercontent.com/u/70658321?v=4" width="50px;" alt="Andrei-Torres"/>
@@ -253,7 +275,7 @@
       <br />
       <a href="https://github.com/SheilaFernandes">Sheila</a>
     </td>
-  </tr>
+  
   <td align="center">
       <a href="https://github.com/levi-pires">
         <img src="https://avatars.githubusercontent.com/u/66280621?v=4" width="50px;" alt="Levi Pires"/>
@@ -275,6 +297,7 @@
       <br />
       <a href="https://github.com/davidjeune">davidjeune</a>
     </td>
+    </tr>
     <td align="center">
       <a href="https://github.com/Print-TesteServer">
         <img src="https://avatars.githubusercontent.com/u/64716025?v=4" width="50px;" alt="Matheus"/>
@@ -304,7 +327,7 @@
       <a href="https://github.com/samuel2na">samuel2na</a>
     </td>
 </table>
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0370.gif" width="1920" height="5px"></img>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0370.gif" width="1020" height="5px"></img>
 
 </details>
 
@@ -320,7 +343,8 @@
 
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-0078D4.svg)](http://commonmark.org) ![](https://visitor-badge.glitch.me/badge?page_id=martageraldo.martageraldo)
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="920" height=""></img>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1020" height=""></img>
+
 <!--END_SECTION:top-followers-->
 
 
