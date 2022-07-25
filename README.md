@@ -1,6 +1,6 @@
 <!--![Visitor Count](https://profile-counter.glitch.me/martageraldo/count.svg)-->
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="920" height="2,5"/>
+<!--<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="920" height="2,5"/>-->
 
 # <img src="https://github.com/martageraldo/certificados/blob/main/certificados/logomgg/LOGOmggcode100.png" width="30"> **Hi there!** <img src="https://github.com/martageraldo/certificados/blob/main/certificados/logomgg/Hi.gif" width="40">
 
@@ -26,7 +26,7 @@
 [![Codepen Badge](https://img.shields.io/badge/-Codepen-black?style=flat-square&logo=Codepen&logoColor=white&link=https://codepen.io/martageraldo)](https://codepen.io/martageraldo)
 [![card Badge](https://img.shields.io/badge/-Microsoft_Outlook-0078D4??style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:mggeraldo@hotmail.com)](mailto:mggeraldo@hotmail.com)  -->
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="920" height=""></img>
+<!--<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="920" height=""></img>-->
 
 ## <img src="https://github.com/martageraldo/certificados/blob/main/certificados/logomgg/FOLLOW.png" width="30"> Connect with Me <img src="https://www.animatedimages.org/data/media/56/animated-computer-image-0077.gif" width="50" height=""></img>
 
@@ -327,7 +327,7 @@
       <a href="https://github.com/samuel2na">samuel2na</a>
     </td>
 </table>
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0370.gif" width="1020" height="5px"></img>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0370.gif" width="1020" height="5px"/>
 
 </details>
 
@@ -343,7 +343,7 @@
 
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-0078D4.svg)](http://commonmark.org) ![](https://visitor-badge.glitch.me/badge?page_id=martageraldo.martageraldo)
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="920" height=""></img>
+<!--<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="920" height=""/>-->
 
 <!--END_SECTION:top-followers-->
 
