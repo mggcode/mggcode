@@ -4,7 +4,7 @@
 
 # <img src="https://github.com/martageraldo/certificados/blob/main/certificados/logomgg/LOGOmggcode100.png" width="30"> **Hi there!** <img src="https://github.com/martageraldo/certificados/blob/main/certificados/logomgg/Hi.gif" width="40">
 
-# I'm Marta Geraldo. 
+# I'm  **Marta Geraldo**. 
 
 <br>
 
