@@ -157,16 +157,10 @@
       <a href="https://github.com/waghcwb">
         <img src="https://avatars.githubusercontent.com/u/6169950?v=4" width="50px;" alt="waghcwb"/>
       </a>
-      <br />
+      <br/>
       <a href="https://github.com/waghcwb">Wagner Souza</a>
     </td>
-    <td align="center">
-      <a href="https://github.com/Eduardo-coder">
-        <img src="https://avatars.githubusercontent.com/u/57602731?v=4" width="50px;" alt="Eduardo-coder"/>
-      </a>
-      <br />
-      <a href="https://github.com/Eduardo-coder">Eduardo-coder</a>
-    </td>
+    
   </tr>
   <tr>
     <td align="center">
@@ -218,14 +212,6 @@
       <br />
       <a href="https://github.com/BrunoYottabyte">Bruno dos Santos</a>
     </td>
-    <td align="center">
-      <a href="https://github.com/motasimbillah628">
-        <img src="https://avatars2.githubusercontent.com/u/12059800" width="50px;" alt="motasimbillah628"/>
-      </a>
-      <br />
-      <a href="https://github.com/motasimbillah628">motasimbillah628</a>
-    </td>
-  
   <td align="center">
       <a href="https://github.com/biettodev">
         <img src="https://avatars.githubusercontent.com/u/52298443?v=4" width="50px;" alt="biettodev"/>
@@ -240,8 +226,7 @@
       </a>
       <br/>
       <a href="https://github.com/Andrei-Torres">Andrei-Torres</a>
-    </td>
- 
+    </td> 
   <td align="center">
       <a href="https://github.com/neodigm">
         <img src="https://avatars.githubusercontent.com/u/3151842?v=4" width="50px;" alt="neodigm"/>
@@ -277,20 +262,12 @@
       <br />
       <a href="https://github.com/SheilaFernandes">Sheila</a>
     </td>
-  
   <td align="center">
       <a href="https://github.com/levi-pires">
         <img src="https://avatars.githubusercontent.com/u/66280621?v=4" width="50px;" alt="Levi Pires"/>
       </a>
       <br />
       <a href="https://github.com/levi-pires">Levi Pires</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/darlonqueiroz">
-        <img src="https://avatars.githubusercontent.com/u/57970580?v=4" width="50px;" alt="Darlon Queiroz"/>
-      </a>
-      <br />
-      <a href="https://github.com/darlonqueiroz">Darlon Queiroz</a>
     </td>
     <td align="center">
       <a href="https://github.com/davidjeune">
@@ -325,16 +302,97 @@
       <a href="https://github.com/lucilaneosantos">
         <img src="https://avatars.githubusercontent.com/u/20874281?v=4" width="50px;" alt="Lucilaneo-Santos"/>
       </a>
-      <br />
+      <br/>
       <a href="https://github.com/lucilaneosantos">LuciLaneo</a>
     </td> 
+     <td align="center">
+      <a href="https://github.com/darlonqueiroz">
+        <img src="https://avatars.githubusercontent.com/u/57970580?v=4" width="50px;" alt="Darlon Queiroz"/>
+      </a>
+      <br/>
+      <a href="https://github.com/darlonqueiroz">Darlon Queiroz</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/motasimbillah628">
+        <img src="https://avatars2.githubusercontent.com/u/12059800" width="50px;" alt="motasimbillah628"/>
+      </a>
+      <br />
+      <a href="https://github.com/motasimbillah628">motasimbillah628</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Eduardo-coder">
+        <img src="https://avatars.githubusercontent.com/u/57602731?v=4" width="50px;" alt="Eduardo-coder"/>
+      </a>
+      <br />
+      <a href="https://github.com/Eduardo-coder">Eduardo-coder</a>
+    </td>
     <td align="center">
       <a href="https://github.com/samuel2na">
         <img src="https://avatars.githubusercontent.com/u/59999295?v=4" width="50px;" alt="samuel2na"/>
       </a>
-      <br />
+      <br/>
       <a href="https://github.com/samuel2na">samuel2na</a>
     </td>
+    <!--
+     <tr>
+    <td align="center">
+      <a href="https://github.com/natasha9999">
+        <img src="https://avatars.githubusercontent.com/u/41237503?v=4" width="50px;" alt="natasha9999"/>
+      </a>
+      <br/>
+      <a href="https://github.com/snowdream">snowdream</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/devcarolis">
+        <img src="https://avatars.githubusercontent.com/u/109559401?v=4" width="50px;" alt="devcarolis"/>
+      </a>
+      <br/>
+      <a href="https://github.com/devcarolis">devcarolis</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Cleidianaa">
+        <img src="https://avatars.githubusercontent.com/u/84573782?v=4" width="50px;" alt="Cleidianaa"/>
+      </a>
+      <br />
+      <a href="https://github.com/Cleidianaa">Cleidianaa</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/kareenketleen">
+        <img src="https://avatars.githubusercontent.com/u/16778466?v=4" width="50px;" alt="kareenketleen"/>
+      </a>
+      <br />
+      <a href="https://github.com/kareenketleen">kareenketleen</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/andreysmattos">
+        <img src="https://avatars.githubusercontent.com/u/27871595?v=4" width="50px;" alt="andreysmattos"/>
+      </a>
+      <br />
+      <a href="https://github.com/andreysmattos">Andreys Mattos</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Jofrejaime">
+        <img src="https://avatars.githubusercontent.com/u/91161712?v=4" width="50px;" alt="bitmote"/>
+      </a>
+      <br/>
+      <a href="https://github.com/Jofrejaime">Jofre Jaime</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/AYIDouble">
+        <img src="https://avatars.githubusercontent.com/u/18186995?v=4" width="50px;" alt="Alpay Yildirim"/>
+      </a>
+      <br/>
+      <a href="https://github.com/AYIDouble">Alpay Yildirim</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/waghcwb">
+        <img src="https://avatars.githubusercontent.com/u/6169950?v=4" width="50px;" alt="waghcwb"/>
+      </a>
+      <br/>
+      <a href="https://github.com/waghcwb">Wagner Souza</a>
+    </td> -->
+    
+  </tr>
 </table>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0370.gif" width="100%" height="5px"/>
 
