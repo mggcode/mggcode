@@ -322,6 +322,13 @@
       <a href="https://github.com/Fernando-Rodrigo">Fernando-Rodrigo</a>
     </td>
     <td align="center">
+      <a href="https://github.com/lucilaneosantos">
+        <img src="https://avatars.githubusercontent.com/u/20874281?v=4" width="50px;" alt="Lucilaneo-Santos"/>
+      </a>
+      <br />
+      <a href="https://github.com/lucilaneosantos">LuciLaneo</a>
+    </td> 
+    <td align="center">
       <a href="https://github.com/samuel2na">
         <img src="https://avatars.githubusercontent.com/u/59999295?v=4" width="50px;" alt="samuel2na"/>
       </a>
