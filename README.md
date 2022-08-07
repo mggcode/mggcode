@@ -40,7 +40,8 @@
 
 
 <br> <br>
-
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="100%" height="2,5"/>
+<br>
 ## <img src="https://github.com/martageraldo/certificados/blob/main/certificados/logomgg/lista.png" width="30"> Tech Stack  
 <br>
 
@@ -398,7 +399,8 @@
 
 </details>
 
----
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="100%" height="2,5"/>
+
 <br><br>
 
 
