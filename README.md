@@ -401,29 +401,38 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="100%" height="2,5"/>
 
-<br><br>
+<br>
+<br>
 
 
 
 ![Snake animation](https://github.com/martageraldo/martageraldo/blob/output/github-contribution-grid-snake.svg)
 
 <br>
-<br>
-
-[![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-0078D4.svg)](http://commonmark.org) ![](https://visitor-badge.glitch.me/badge?page_id=martageraldo.martageraldo)
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2,5"/>
+
+<br>
+
+### Now Playing 🎧
+
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/mr5jgbqp3jw221j271iz2nix9)
+<br/>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2,5"/>
+
+<br>
+
+
+
+
+
+[![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-0078D4.svg)](http://commonmark.org) ![](https://visitor-badge.glitch.me/badge?page_id=martageraldo.martageraldo)
 
 <!--END_SECTION:top-followers-->
 
 
-<!--
-<div>
-<a href="https://github.com/martageraldo">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martageraldo&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=martageraldo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
--->
+
 
 
 
