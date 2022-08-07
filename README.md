@@ -398,6 +398,7 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0370.gif" width="100%" height="5px"/>
 
 </details>
+<!--END_SECTION:top-followers-->
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="100%" height="2,5"/>
 
@@ -429,11 +430,11 @@
 
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-0078D4.svg)](http://commonmark.org) ![](https://visitor-badge.glitch.me/badge?page_id=martageraldo.martageraldo)
 
-<!--END_SECTION:top-followers-->
 
 
 
 
+![Marta Geraldo](https://raw.githubusercontent.com/martageraldo/martageraldo/ac3011a4affdb50caa70008ea5831f7a1d40caab/bottom_header.svg)
 
 
 <!--
