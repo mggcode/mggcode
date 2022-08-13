@@ -6,6 +6,7 @@
 <br>
 <br>
 
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=50&duration=3800&color=447FF7&background=FFFFFF00&center=true&vCenter=true&width=650&height=55&lines=Hey!+It's+Marta+Geraldo+%F0%9F%91%8B%F0%9F%8F%BB;I+am+a+Software+Developer+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;I+am+from+Brazil+%F0%9F%87%A7%F0%9F%87%B7;" alt="Marta Geraldo" width="950" height="90">
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
@@ -74,6 +75,7 @@
 
 
 <br>
+
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="100%" height="1"/>
 
 
@@ -81,8 +83,13 @@
 
 <br>
 
-[![ Badge](https://github-readme-stats.vercel.app/api?username=martageraldo&show_icons=true&include_all_commits=true&count_private=true&theme=blue-green)]() 
-[![ Badge](https://github-readme-stats.vercel.app/api/top-langs/?username=martageraldo&include_all_langs=true&theme=blue-green)]()
+![status](https://github-readme-stats.vercel.app/api?username=martageraldo&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=fff&title_color=fff&icon_color=6a11cb&bg_color=0,FF057C,8D0B93,321575) [![ Badge](https://github-readme-stats.vercel.app/api/top-langs/?username=martageraldo&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=fff&title_color=fff&icon_color=6a11cb&bg_color=0,321575,8D0B93,FF057C)]() 
+
+<br> 
+
+
+
+
 
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="100%" height="1"/>
