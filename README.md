@@ -349,11 +349,11 @@
     <!--
      <tr>
     <td align="center">
-      <a href="https://github.com/natasha9999">
+      <a href="https://github.com/luanamaguiar">
         <img src="https://avatars.githubusercontent.com/u/41237503?v=4" width="50px;" alt="natasha9999"/>
       </a>
       <br/>
-      <a href="https://github.com/snowdream">snowdream</a>
+      <a href="https://github.com/luanamaguiar">luanamaguiar</a>
     </td>
     <td align="center">
       <a href="https://github.com/devcarolis">
