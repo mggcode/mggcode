@@ -346,7 +346,6 @@
       <br/>
       <a href="https://github.com/samuel2na">samuel2na</a>
     </td>
-    
      <tr>
     <td align="center">
       <a href="https://github.com/luanamaguiar">
@@ -355,7 +354,6 @@
       <br/>
       <a href="https://github.com/luanamaguiar">luanamaguiar</a>
     </td>
-    
     <!--
     **********************
     <td align="center">
