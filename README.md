@@ -438,20 +438,22 @@
 <br>
 
 
-<!--STARTS_HERE_QUOTE_README-->
-<i>❝All the domain names such as Google, Log In or Sign Up were free until 1995, but now everyone has to pay for every new domain name.❞</i>
-<!--ENDS_HERE_QUOTE_README-->
 
 
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-0078D4.svg)](http://commonmark.org) ![](https://visitor-badge.glitch.me/badge?page_id=martageraldo.martageraldo)
 
+<br>
 
 
+<br>
 
 
 ![Marta Geraldo](https://raw.githubusercontent.com/martageraldo/martageraldo/ac3011a4affdb50caa70008ea5831f7a1d40caab/bottom_header.svg)
 
+<!--STARTS_HERE_QUOTE_README-->
 
+<i>❝All the domain names such as Google, Log In or Sign Up were free until 1995, but now everyone has to pay for every new domain name.❞</i>
+<!--ENDS_HERE_QUOTE_README-->
 <!--
 **martageraldo/martageraldo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
