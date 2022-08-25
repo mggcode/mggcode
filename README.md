@@ -458,7 +458,7 @@
 
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝Windows 95 was the second most installed piece of software on computers in 1995, video game DOOM was first.❞</i>
+<i>❝CPU manufacturing is so unpredictable that every chip must be tested since the majority of finished chips are defective. Those that survive are assigned a model number and price reflecting their maximum safe performance.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
  </a>
  
