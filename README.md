@@ -1,7 +1,7 @@
-<!--![Marta Geraldo](https://raw.githubusercontent.com/martageraldo/martageraldo/88e6cc1c207535818bf89ae7fcdc63fae17e0495/top_wave.svg)-->
-<!--![Visitor Count](https://profile-counter.glitch.me/martageraldo/count.svg)-->
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="100%" height="2,5"/>
+
+![Marta Geraldo](https://raw.githubusercontent.com/martageraldo/martageraldo/793f2acc35b35a77c8c2df1a622fad41b384d358/top_wave2.svg)
+<!--![Visitor Count](https://profile-counter.glitch.me/martageraldo/count.svg)-->
 
 <br>
 
