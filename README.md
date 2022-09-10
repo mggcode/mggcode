@@ -360,15 +360,16 @@
       <br/>
       <a href="https://github.com/luanamaguiar">luanamaguiar</a>
     </td>
-    <!--
-    **********************
+  
     <td align="center">
-      <a href="https://github.com/devcarolis">
+      <a href="https://github.com/aluappan">
         <img src="https://avatars.githubusercontent.com/u/109559401?v=4" width="50px;" alt="devcarolis"/>
       </a>
       <br/>
-      <a href="https://github.com/devcarolis">devcarolis</a>
+      <a href="https://github.com/aluappan">aluapan</a>
     </td>
+      <!--
+    **********************
     <td align="center">
       <a href="https://github.com/Cleidianaa">
         <img src="https://avatars.githubusercontent.com/u/84573782?v=4" width="50px;" alt="Cleidianaa"/>
