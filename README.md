@@ -179,7 +179,6 @@
       <br/>
       <a href="https://github.com/waghcwb">Wagner Souza</a>
     </td>
-    
   </tr>
   <tr>
     <td align="center">
@@ -359,8 +358,7 @@
       </a>
       <br/>
       <a href="https://github.com/luanamaguiar">luanamaguiar</a>
-    </td>
-  
+ </td>
     <td align="center">
       <a href="https://github.com/aluappan">
         <img src="https://avatars.githubusercontent.com/u/109559401?v=4" width="50px;" alt="devcarolis"/>
@@ -368,29 +366,29 @@
       <br/>
       <a href="https://github.com/aluappan">aluapan</a>
     </td>
-      <!--
+    <td align="center">
+      <a href="https://github.com/Sings168">
+        <img src="https://avatars.githubusercontent.com/u/102612762?v=4" width="50px;" alt="Siswanto"/>
+      </a>
+      <br />
+      <a href="https://github.com/Sings168">Siswanto</a>
+    </td> 
+    <td align="center">
+      <a href="https://github.com/Kmiatelli">
+        <img src="https://avatars.githubusercontent.com/u/109180731?v=4" width="50px;" alt="Kmiatelli"/>
+      </a>
+      <br />
+      <a href="https://github.com/Kmiatelli">Karina Miatelli</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/brunoBMonteiro">
+        <img src="https://avatars.githubusercontent.com/u/52968377?v=4" width="50px;" alt="brunoBMonteiro"/>
+      </a>
+      <br />
+      <a href=https://github.com/brunoBMonteiro">Bruno B. Monteiro</a>
+    </td>
+     <!--
     **********************
-    <td align="center">
-      <a href="https://github.com/Cleidianaa">
-        <img src="https://avatars.githubusercontent.com/u/84573782?v=4" width="50px;" alt="Cleidianaa"/>
-      </a>
-      <br />
-      <a href="https://github.com/Cleidianaa">Cleidianaa</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/kareenketleen">
-        <img src="https://avatars.githubusercontent.com/u/16778466?v=4" width="50px;" alt="kareenketleen"/>
-      </a>
-      <br />
-      <a href="https://github.com/kareenketleen">kareenketleen</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/andreysmattos">
-        <img src="https://avatars.githubusercontent.com/u/27871595?v=4" width="50px;" alt="andreysmattos"/>
-      </a>
-      <br />
-      <a href="https://github.com/andreysmattos">Andreys Mattos</a>
-    </td>
     <td align="center">
       <a href="https://github.com/Jofrejaime">
         <img src="https://avatars.githubusercontent.com/u/91161712?v=4" width="50px;" alt="bitmote"/>
