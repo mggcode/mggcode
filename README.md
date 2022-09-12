@@ -387,15 +387,14 @@
       <br />
       <a href=https://github.com/brunoBMonteiro">Bruno B. Monteiro</a>
     </td>
-     <!--
-    **********************
     <td align="center">
-      <a href="https://github.com/Jofrejaime">
-        <img src="https://avatars.githubusercontent.com/u/91161712?v=4" width="50px;" alt="bitmote"/>
+      <a href="https://github.com/DioonS">
+        <img src="https://avatars.githubusercontent.com/u/91362944?v=4" width="50px;" alt="bitmote"/>
       </a>
       <br/>
-      <a href="https://github.com/Jofrejaime">Jofre Jaime</a>
-    </td>
+      <a href="https://github.com/DioonS">Diego Silva</a>
+    </td>  <!--
+    **********************
     <td align="center">
       <a href="https://github.com/AYIDouble">
         <img src="https://avatars.githubusercontent.com/u/18186995?v=4" width="50px;" alt="Alpay Yildirim"/>
