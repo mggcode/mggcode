@@ -393,15 +393,32 @@
       </a>
       <br/>
       <a href="https://github.com/DioonS">Diego Silva</a>
-    </td>  <!--
-    **********************
+    </td> 
+     <td align="center">
+      <a href="https://github.com/ConectAri">
+        <img src="https://avatars.githubusercontent.com/u/105406479?v=4" width="50px;" alt="ConectAri"/>
+      </a>
+      <br/>
+      <a href="https://github.com/ConectAri">ConectAri</a>
+    </td> 
+    <td align="center">
+      <a href="https://github.com/y93r">
+        <img src="https://avatars.githubusercontent.com/u/104739868?v=4" width="50px;" alt="YarA"/>
+      </a>
+      <br/>
+      <a href="https://github.com/y93r">YarA</a>
+    </td> 
+    </tr>
+    <tr> <!--
     <td align="center">
       <a href="https://github.com/AYIDouble">
         <img src="https://avatars.githubusercontent.com/u/18186995?v=4" width="50px;" alt="Alpay Yildirim"/>
       </a>
       <br/>
       <a href="https://github.com/AYIDouble">Alpay Yildirim</a>
-    </td>
+    </td>-->
+    <!--
+    **********************
     <td align="center">
       <a href="https://github.com/waghcwb">
         <img src="https://avatars.githubusercontent.com/u/6169950?v=4" width="50px;" alt="waghcwb"/>
