@@ -6,9 +6,11 @@
 <br>
 
 <p align="center">
+ 
+ <!--
 <img src="https://github.com/martageraldo/martageraldo/blob/main/image/girlcode.gif?raw=true"  width="300"></p>
 
-<!--<img src="https://github.com/martageraldo/certificados/blob/main/certificados/logomgg/LOGOmggcode100.png" width="30"> -->
+<img src="https://github.com/martageraldo/certificados/blob/main/certificados/logomgg/LOGOmggcode100.png" width="30"> -->
 <br>
 <br>
 
