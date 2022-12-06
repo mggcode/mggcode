@@ -411,14 +411,15 @@
       <a href="https://github.com/y93r">YarA</a>
     </td> 
     </tr>
-    <tr> <!--
+    <tr> 
     <td align="center">
-      <a href="https://github.com/AYIDouble">
-        <img src="https://avatars.githubusercontent.com/u/18186995?v=4" width="50px;" alt="Alpay Yildirim"/>
+      <a href="https://github.com/0xN0x">
+        <img src="https://avatars.githubusercontent.com/u/1781547?v=4" width="50px;" alt="N0x"/>
       </a>
       <br/>
-      <a href="https://github.com/AYIDouble">Alpay Yildirim</a>
-    </td>-->
+      <a href="
+         https://github.com/0xN0x">N0x</a>
+    </td>
     <!--
     **********************
     <td align="center">
