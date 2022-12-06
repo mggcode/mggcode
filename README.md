@@ -3,7 +3,7 @@
 ![Marta Geraldo](https://raw.githubusercontent.com/martageraldo/martageraldo/793f2acc35b35a77c8c2df1a622fad41b384d358/top_wave2.svg)
 <!--![Visitor Count](https://profile-counter.glitch.me/martageraldo/count.svg)-->
 
-<br>
+
 
 <p align="center">
  
@@ -24,10 +24,10 @@
 
  
 
-<p> Hi, I'm <a href="https://martageraldo.netlify.app/" target="_blank">Marta<a/> , a passionate self-taught web developer from Brazil. My fascination for software lies with dreaming up ideas and making them come true with sophisticated interfaces.</p>
-<p>I like to explore new technologies and develop software solutions and quick hacks.</p>
-<p> I’m looking to collaborate with good people to add lasting values to growth-oriented organizations, through hard work and commitment...and also to work within a dynamic, motivating and enriching environment while developing more skills and competences, and applying all acquired in developing resources that will enhance the organization’s overall worth.</p>
-<p> I'm available to help with projects.</p> 
+ ### Hi, I'm <a href="https://martageraldo.netlify.app/" target="_blank">Marta<a/> , a passionate self-taught web developer from Brazil. My fascination for software lies with dreaming up ideas and making them come true with sophisticated interfaces.
+### I like to explore new technologies and develop software solutions and quick hacks.
+
+
 
 <br>
 
