@@ -91,7 +91,7 @@
 
 <br>
 
-![status](https://github-readme-stats.vercel.app/api?username=martageraldo&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=fff&title_color=fff&icon_color=6a11cb&bg_color=0,FF057C,8D0B93,321575) [![ Badge](https://github-readme-stats.vercel.app/api/top-langs/?username=martageraldo&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=fff&title_color=fff&icon_color=6a11cb&bg_color=0,321575,8D0B93,FF057C)]() 
+![status](https://github-readme-stats.vercel.app/api?username=MGBrave&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=fff&title_color=fff&icon_color=6a11cb&bg_color=0,FF057C,8D0B93,321575) [![ Badge](https://github-readme-stats.vercel.app/api/top-langs/?username=MGBrave&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=fff&title_color=fff&icon_color=6a11cb&bg_color=0,321575,8D0B93,FF057C)]() 
 
 <br> 
 
