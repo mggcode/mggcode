@@ -417,8 +417,28 @@
         <img src="https://avatars.githubusercontent.com/u/1781547?v=4" width="50px;" alt="N0x"/>
       </a>
       <br/>
-      <a href="
-         https://github.com/0xN0x">N0x</a>
+      <a href="https://github.com/0xN0x">N0x</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/paolandrad">
+        <img src="https://avatars.githubusercontent.com/u/114046996?v=4" width="50px;" alt="paolandrad"/>
+      </a>
+      <br/>
+      <a href="https://github.com/paolandrad">Paola Oliveira</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/DevCESLEY">
+        <img src="https://avatars.githubusercontent.com/u/106036784?v=4" width="50px;" alt="DevCESLEY"/>
+      </a>
+      <br/>
+      <a href="https://github.com/DevCESLEY">Wesley Ferrari</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/rvsfara">
+        <img src="https://avatars.githubusercontent.com/u/12444853?v=4" width="50px;" alt="rvsfara"/>
+      </a>
+      <br/>
+      <a href="https://github.com/rvsfara">Rafael V. dos Santos</a>
     </td>
     <!--
     **********************
