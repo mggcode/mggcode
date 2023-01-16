@@ -1,6 +1,6 @@
 
 
-![Marta Geraldo](https://raw.githubusercontent.com/martageraldo/martageraldo/793f2acc35b35a77c8c2df1a622fad41b384d358/top_wave2.svg)
+![Marta Geraldo](https://raw.githubusercontent.com/MGBrave/mgbrave/793f2acc35b35a77c8c2df1a622fad41b384d358/top_wave2.svg)
 <!--![Visitor Count](https://profile-counter.glitch.me/martageraldo/count.svg)-->
 
 
@@ -492,7 +492,7 @@
 <br>
 
 
-![Marta Geraldo](https://raw.githubusercontent.com/martageraldo/martageraldo/ac3011a4affdb50caa70008ea5831f7a1d40caab/bottom_header.svg)
+![Marta Geraldo](https://raw.githubusercontent.com/MGBrave/mgbrave/ac3011a4affdb50caa70008ea5831f7a1d40caab/bottom_header.svg)
 
 
 <a href="https://github.com/marketplace/actions/quote-readme">
