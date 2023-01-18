@@ -42,7 +42,7 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="1"/>
 
-## <img src="https://github.com/martageraldo/certificados/blob/main/certificados/logomgg/FOLLOW.png" width="30"> Connect with Me <img src="https://www.animatedimages.org/data/media/56/animated-computer-image-0077.gif" width="50" height=""></img>
+## <img src="https://github.com/MGBrave/certificados/blob/main/certificados/logomgg/FOLLOW.png" width="30"> Connect with Me <img src="https://www.animatedimages.org/data/media/56/animated-computer-image-0077.gif" width="50" height=""></img>
 
 <br>
 
@@ -56,7 +56,7 @@
 <br> <br>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="100%" height="2,5"/>
 <br>
-## <img src="https://github.com/martageraldo/certificados/blob/main/certificados/logomgg/lista.png" width="30"> Tech Stack  
+## <img src="https://github.com/MGBrave/certificados/blob/main/certificados/logomgg/lista.png" width="30"> Tech Stack  
 <br>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width= "40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width= "40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width= "40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width= "40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width= "40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width= "40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" width= "40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width= "40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width= "40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width= "40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width= "40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg"  width= "40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width= "40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"  width= "40"/>
@@ -90,8 +90,9 @@
 ## <img src="https://github.com/martageraldo/certificados/blob/main/certificados/logomgg/metrics.png" width="35"> GitHub Analytics 
 
 <br>
-
-![status](https://github-readme-stats.vercel.app/api?username=MGBrave&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=fff&title_color=fff&icon_color=6a11cb&bg_color=0,FF057C,8D0B93,321575) ![ Badge](https://github-readme-stats.vercel.app/api/top-langs/?username=MGBrave&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=fff&title_color=fff&icon_color=6a11cb&bg_color=0,321575,8D0B93,FF057C)
+<!--
+![status](https://github-readme-stats.vercel.app/api?username=MGBrave&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=fff&title_color=fff&icon_color=6a11cb&bg_color=0,FF057C,8D0B93,321575) 
+ ![ Badge](https://github-readme-stats.vercel.app/api/top-langs/?username=MGBrave&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=fff&title_color=fff&icon_color=6a11cb&bg_color=0,321575,8D0B93,FF057C) -->
 
 <br> 
 
