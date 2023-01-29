@@ -8,9 +8,9 @@
 <p align="center">
  
  <!--
-<img src="https://github.com/martageraldo/martageraldo/blob/main/image/girlcode.gif?raw=true"  width="300"></p>
+<img src="https://github.com/MGBrave/mgbrave/blob/main/image/girlcode.gif?raw=true"  width="300"></p>
 
-<img src="https://github.com/martageraldo/certificados/blob/main/certificados/logomgg/LOGOmggcode100.png" width="30"> -->
+<img src="https://github.com/MGBrave/certificados/blob/main/certificados/logomgg/LOGOmggcode100.png" width="30"> -->
 <br>
 <br>
 
@@ -32,7 +32,7 @@
 <br>
 
 <!--
- ## <img src="https://github.com/martageraldo/certificados/blob/main/certificados/logomgg/FOLLOW.png" width="30"> Connect with Me  
+ ## <img src="https://github.com/MGBrave/certificados/blob/main/certificados/logomgg/FOLLOW.png" width="30"> Connect with Me  
  <br>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marta-geraldo)](https://www.linkedin.com/in/marta-geraldo)
@@ -90,9 +90,9 @@
 ## <img src="https://github.com/martageraldo/certificados/blob/main/certificados/logomgg/metrics.png" width="35"> GitHub Analytics 
 
 <br>
-<!--
+
 ![status](https://github-readme-stats.vercel.app/api?username=MGBrave&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=fff&title_color=fff&icon_color=6a11cb&bg_color=0,FF057C,8D0B93,321575) 
- ![ Badge](https://github-readme-stats.vercel.app/api/top-langs/?username=MGBrave&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=fff&title_color=fff&icon_color=6a11cb&bg_color=0,321575,8D0B93,FF057C) -->
+ ![ Badge](https://github-readme-stats.vercel.app/api/top-langs/?username=MGBrave&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=fff&title_color=fff&icon_color=6a11cb&bg_color=0,321575,8D0B93,FF057C)
 
 <br> 
 
