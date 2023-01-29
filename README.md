@@ -445,15 +445,16 @@
       <br/>
       <a href="https://github.com/rvsfara">Rafael V. dos Santos</a>
     </td>
-    <!--
-    **********************
-    <td align="center">
-      <a href="https://github.com/waghcwb">
-        <img src="https://avatars.githubusercontent.com/u/6169950?v=4" width="50px;" alt="waghcwb"/>
+     <td align="center">
+      <a href="https://github.com/thomasynchrone">
+        <img src="https://avatars.githubusercontent.com/u/119703607?v=4" width="50px;" alt="thomasynchrone"/>
       </a>
       <br/>
-      <a href="https://github.com/waghcwb">Wagner Souza</a>
-    </td> -->
+      <a href="https://github.com/thomasynchrone">Thomasynchrone</a>
+    </td>                                    
+    <!--
+    **********************
+     -->
     
   </tr>
 </table>
