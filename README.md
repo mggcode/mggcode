@@ -446,11 +446,11 @@
       <a href="https://github.com/rvsfara">Rafael V. dos Santos</a>
     </td>
      <td align="center">
-      <a href="https://github.com/thomasynchrone">
-        <img src="https://avatars.githubusercontent.com/u/119703607?v=4" width="50px;" alt="thomasynchrone"/>
+      <a href="">
+        <img src="" width="50px;" alt=""/>
       </a>
       <br/>
-      <a href="https://github.com/thomasynchrone">Thomasynchrone</a>
+      <a href=""></a>
     </td>                                    
     <!--
     **********************
