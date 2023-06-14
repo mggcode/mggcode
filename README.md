@@ -447,11 +447,25 @@
       <a href="https://github.com/rvsfara">Rafael V. dos Santos</a>
     </td>
      <td align="center">
-      <a href="">
-        <img src="" width="50px;" alt=""/>
+      <a href="https://github.com/rvianapy">
+        <img src="https://avatars.githubusercontent.com/u/10123415?v=4" width="50px;" alt="rvianapy"/>
       </a>
       <br/>
-      <a href=""></a>
+      <a href="https://github.com/rvianapy">Rodrigo Viana</a>
+    </td>
+     <td align="center">
+      <a href="https://github.com/miltonnotforyou">
+        <img src="https://avatars.githubusercontent.com/u/67373586?v=4" width="50px;" alt="miltonnotforyou"/>
+      </a>
+      <br/>
+      <a href="https://github.com/miltonnotforyou">Miltonnotforyou</a>
+    </td>                       
+     <td align="center">
+      <a href="https://github.com/ofjunior">
+        <img src="https://avatars.githubusercontent.com/u/82921902?v=4" width="50px;" alt="ofjunior"/>
+      </a>
+      <br/>
+      <a href="https://github.com/ofjunior">Ofjunior</a>
     </td>                                    
     <!--
     **********************
