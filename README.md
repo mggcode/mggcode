@@ -22,11 +22,11 @@
 <br>
 <br>
 
- 
+ <!--
 
  ### Hi, I'm <a href="https://martageraldo.netlify.app/" target="_blank">Marta<a/> , a passionate self-taught web developer from Brazil. My fascination for software lies with dreaming up ideas and making them come true with sophisticated interfaces.
 ### I like to explore new technologies and develop software solutions and quick hacks.
-
+-->
 
 
 <br>
@@ -93,11 +93,11 @@
 <br>
 
 ![status](https://github-readme-stats.vercel.app/api?username=MGBrave&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=fff&title_color=fff&icon_color=6a11cb&bg_color=0,FF057C,8D0B93,321575) 
- ![ Badge](https://github-readme-stats.vercel.app/api/top-langs/?username=MGBrave&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=fff&title_color=fff&icon_color=6a11cb&bg_color=0,321575,8D0B93,FF057C)
+![ Badge](https://github-readme-stats.vercel.app/api/top-langs/?username=MGBrave&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=fff&title_color=fff&icon_color=6a11cb&bg_color=0,321575,8D0B93,FF057C)
 
 <br> 
  
- [![MGBrave github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MGBrave&theme=react-dark)](https://github.com/MGBrave/github-readme-activity-graph)  
+
  
  <br>
 
