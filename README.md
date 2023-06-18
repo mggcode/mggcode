@@ -466,12 +466,41 @@
       </a>
       <br/>
       <a href="https://github.com/ofjunior">Ofjunior</a>
-    </td>                                    
-    <!--
+    </td>  
+     <td align="center">
+      <a href="https://github.com/Axel-07">
+        <img src="https://avatars.githubusercontent.com/u/69872620?v=4" width="50px;" alt="Axel-07"/>
+      </a>
+      <br/>
+      <a href="https://github.com/Axel-07">Axel-07</a>
+    </td>     
+  </tr>
+  <tr>
+   <td align="center">
+      <a href="https://github.com/Pleiterson">
+        <img src="https://avatars.githubusercontent.com/u/18745378?v=4" width="50px;" alt="Pleiterson"/>
+      </a>
+      <br/>
+      <a href="https://github.com/Pleiterson">Pleiterson</a>
+    </td> 
+   <td align="center">
+      <a href="https://github.com/LuccasSilvaDev">
+        <img src="https://avatars.githubusercontent.com/u/90392313?v=4" width="50px;" alt="Richard"/>
+      </a>
+      <br/>
+      <a href="https://github.com/RichardTavares">Richard Tavares</a>
+    </td> 
+   <td align="center">
+      <a href="https://github.com/LuccasSilvaDev">
+        <img src="https://avatars.githubusercontent.com/u/13820591?v=4" width="50px;" alt="Richard"/>
+      </a>
+      <br/>
+      <a href="https://github.com/LuccasSilvaDev">Luccas Silva Dev</a>
+    </td> 
+  </tr>
+   <!--
     **********************
      -->
-    
-  </tr>
 </table>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0370.gif" width="100%" height="5px"/>
 
