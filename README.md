@@ -494,20 +494,6 @@
       <a href="https://github.com/RichardTavares">Richard Tavares</a>
     </td> 
    <td align="center">
-      <a href="https://github.com/LuccasSilvaDev">
-        <img src="https://avatars.githubusercontent.com/u/90392313?v=4" width="50px;" alt="Richard"/>
-      </a>
-      <br/>
-      <a href="https://github.com/RichardTavares">Richard Tavares</a>
-    </td> 
-   <td align="center">
-      <a href="https://github.com/Axel-07">
-        <img src="https://avatars.githubusercontent.com/u/69872620?v=4" width="50px;" alt="Axel-07"/>
-      </a>
-      <br/>
-      <a href="https://github.com/Axel-07">Axel Riveros</a>
-    </td> 
-   <td align="center">
       <a href="https://github.com/AnaM2730">
         <img src="https://avatars.githubusercontent.com/u/107368074?v=4" width="50px;" alt="AnaM2730"/>
       </a>
