@@ -516,15 +516,13 @@
 
 
  
-<br>
-
-![Snake animation](https://github.com/MGBrave/martageraldo/blob/output/github-contribution-grid-snake.svg) 
 
 <br>
 
 ![Snake animation](https://raw.githubusercontent.com/Envoy-VC/Envoy-VC/output/github-contribution-grid-snake-dark.svg)
 
 <br>
+
 
 
 
@@ -548,7 +546,7 @@
 
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-0078D4.svg)](http://commonmark.org) 
                                                                                                                
-[![Marta geraldo](https://custom-icon-badges.herokuapp.com/badge/-M.%20Geraldo-blue?style=social-square&logo=mggcode&logoColor=white)](https://martageraldo.netlify.app/) <!--https://custom-icon-badges.herokuapp.com/ -->
+[![M. geraldo](https://custom-icon-badges.herokuapp.com/badge/-M.%20Geraldo-blue?style=social-square&logo=mggcode&logoColor=white)](https://martageraldo.netlify.app/) <!--https://custom-icon-badges.herokuapp.com/ -->
 
 <br>
 
@@ -565,20 +563,7 @@
 <!--ENDS_HERE_QUOTE_README-->
  </a>
  
-<!--
-**martageraldo/martageraldo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 
 
