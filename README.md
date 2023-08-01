@@ -505,7 +505,7 @@
         <img src="https://avatars.githubusercontent.com/u/69872620?v=4" width="50px;" alt="Axel-07"/>
       </a>
       <br/>
-      <a href="https://github.com/Axel-07">Axel-07</a>
+      <a href="https://github.com/Axel-07">Axel Riveros</a>
     </td> 
    <td align="center">
       <a href="https://github.com/AnaM2730">
