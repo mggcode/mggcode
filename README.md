@@ -500,6 +500,13 @@
       <br/>
       <a href="https://github.com/AnaM2730">Ana Júlia</a>
     </td> 
+   <td align="center">
+      <a href="https://github.com/0vm">
+        <img src="https://avatars.githubusercontent.com/u/79897291?v=4" width="50px;" alt="0vm"/>
+      </a>
+      <br/>
+      <a href="https://github.com/0vm">0vm</a>
+    </td> 
   </tr>
    <!--
     **********************
