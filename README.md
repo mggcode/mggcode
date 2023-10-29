@@ -32,14 +32,7 @@
 
 <br>
 
-<!--
- ## <img src="https://github.com/MGBrave/certificados/blob/main/certificados/logomgg/FOLLOW.png" width="30"> Connect with Me  
- <br>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marta-geraldo)](https://www.linkedin.com/in/marta-geraldo)
-[![Netlify Badge](https://img.shields.io/badge/Netlify-37aeba?style=flat-square&logo=Netlify&logoColor=white&link=https://martageraldo.netlify.app/)](https://martageraldo.netlify.app/)
-[![Codepen Badge](https://img.shields.io/badge/-Codepen-black?style=flat-square&logo=Codepen&logoColor=white&link=https://codepen.io/martageraldo)](https://codepen.io/martageraldo)
-[![card Badge](https://img.shields.io/badge/-Microsoft_Outlook-0078D4??style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:mggeraldo@hotmail.com)](mailto:mggeraldo@hotmail.com)  -->
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="1"/>
 
