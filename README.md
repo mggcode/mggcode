@@ -94,10 +94,6 @@
 
 
 
-
- [![status](https://github-readme-streak-stats.herokuapp.com/?user=MGBrave&theme=synthwave&hide)](https://github.com/MGBrave)
-
- 
  <br>
 
 
