@@ -506,6 +506,27 @@
       <br/>
       <a href="https://github.com/Adriano360">Adriano360</a>
     </td> 
+   <td align="center">
+      <a href="https://github.com/AnikoJS">
+        <img src="https://avatars.githubusercontent.com/u/151036617?v=4" width="50px;" alt="AnikoJS"/>
+      </a>
+      <br/>
+      <a href="https://github.com/AnikoJS">AnikoJS</a>
+    </td> 
+   <td align="center">
+      <a href="https://github.com/SimonePenido">
+        <img src="https://avatars.githubusercontent.com/u/112627846?v=4" width="50px;" alt="SimonePenido"/>
+      </a>
+      <br/>
+      <a href="https://github.com/SimonePenido">SimonePenido</a>
+    </td> 
+   <td align="center">
+      <a href="https://github.com/ravelmello">
+        <img src="https://avatars.githubusercontent.com/u/4421711?v=4" width="50px;" alt="Ravel da Costa Melo"/>
+      </a>
+      <br/>
+      <a href="https://github.com/SimonePenido">Ravel da Costa Melo</a>
+    </td> 
   </tr>
    <!--
     **********************
