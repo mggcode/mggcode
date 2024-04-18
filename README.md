@@ -499,6 +499,13 @@
       <br/>
       <a href="https://github.com/0vm">0vm</a>
     </td> 
+   <td align="center">
+      <a href="https://github.com/Adriano360">
+        <img src="https://avatars.githubusercontent.com/u/120762101?v=4" width="50px;" alt="Adriano360"/>
+      </a>
+      <br/>
+      <a href="https://github.com/Adriano360">Adriano360</a>
+    </td> 
   </tr>
    <!--
     **********************
