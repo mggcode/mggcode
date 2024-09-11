@@ -3,22 +3,29 @@
 ![Marta Geraldo](https://raw.githubusercontent.com/MGBrave/mgbrave/793f2acc35b35a77c8c2df1a622fad41b384d358/top_wave2.svg)
 
 <!--![Visitor Count](https://profile-counter.glitch.me/MGBrave/count.svg)
+<a href="https://app.daily.dev/mggdev"><img src="https://api.daily.dev/devcards/v2/NTVMhhsT6Pq1Wbj345gSh.png?type=default&r=gox" width="356" alt="Marta Geraldo's Dev Card"/></a>-->
 
-
-
-<p align="center">
  
  <!--
 <img src="https://github.com/MGBrave/mgbrave/blob/main/image/girlcode.gif?raw=true"  width="300"></p>
 
 <img src="https://github.com/MGBrave/certificados/blob/main/certificados/logomgg/LOGOmggcode100.png" width="30"> -->
+
+
 <br>
 <br>
 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=50&duration=3800&color=447FF7&background=FFFFFF00&center=true&vCenter=true&width=650&height=55&lines=Hey!+It's+MGBrave+%F0%9F%91%8B%F0%9F%8F%BB;I+am+a+Software+Developer+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;I+am+from+Brazil+%F0%9F%87%A7%F0%9F%87%B7;" alt="MGBrave" width="950" height="90">
 
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
+
+| Daily.Dev Card  | Articles |
+| ------------- | ------------- |
+| <a href="https://app.daily.dev/mggdev"><img src="https://api.daily.dev/devcards/v2/NTVMhhsT6Pq1Wbj345gSh.png?type=default&r=mvn" width="356" alt="Marta Geraldo's Dev Card"/></a>    | * [Porque a Cibersegurança é importante](https://web.dio.me/articles/por-que-a-ciberseguranca-e-importante?back=%2Farticles&page=1&order=oldest) <br>  * [Como Programadores de Software Podem Reduzir seus Vieses de Confirmação e Preconceitos em Seus Códigos](https://web.dio.me/articles/como-programadores-de-software-podem-reduzir-seus-vieses-de-confirmacao-e-preconceitos-em-seus-codigos?back=%2Farticles&page=1&order=oldest) <br>  * [Revolução da IA nos Eletrodomésticos: O Impacto na Gestão da Casa e no Trabalho Doméstico](https://web.dio.me/articles/a-revolucao-da-ia-nos-eletrodomesticos-o-impacto-na-gestao-da-casa-e-no-trabalho-domestico?back=%2Farticles&page=1&order=oldest) <br>  * [Deepfake and Elections: Challenges and Implications for Democracy](https://dev.to/mggdev/deepfake-and-elections-challenges-and-implications-for-democracy-2e24)
+|
+
 <br>
 <br>
 <br>
