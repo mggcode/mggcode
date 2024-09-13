@@ -546,7 +546,7 @@
 
 <br>
 
- # Articles 
+ ## Articles 
  
 
 * [Porque a Cibersegurança é importante](https://web.dio.me/articles/por-que-a-ciberseguranca-e-importante?back=%2Farticles&page=1&order=oldest) <br>
@@ -560,7 +560,7 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="100%" height="2,5"/>
 
  
-# Snake animation
+## Snake animation
 
 <br>
 
