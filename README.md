@@ -7,8 +7,8 @@
 <br>
 
 
- 
  <!--
+ 
 <img src="https://github.com/MGBrave/mgbrave/blob/main/image/girlcode.gif?raw=true"  width="300"></p>
 
 <img src="https://github.com/MGBrave/certificados/blob/main/certificados/logomgg/LOGOmggcode100.png" width="30"> -->
