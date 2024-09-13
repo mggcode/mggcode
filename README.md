@@ -5,7 +5,7 @@
 ![Visitor Count](https://profile-counter.glitch.me/MGBrave/count.svg)
 
 <br>
-<a href="https://app.daily.dev/mggdev"><img src="https://api.daily.dev/devcards/v2/NTVMhhsT6Pq1Wbj345gSh.png?type=default&r=gox" width="250" alt="Marta Geraldo's Dev Card"/></a>
+
 
  
  <!--
@@ -28,15 +28,10 @@
 <br>
 <br>
 
- <!--
-
- ### Hi, I'm <a href="https://martageraldo.netlify.app/" target="_blank">Marta<a/> , a passionate self-taught web developer from Brazil. My fascination for software lies with dreaming up ideas and making them come true with sophisticated interfaces.
-### I like to explore new technologies and develop software solutions and quick hacks.
--->
-
 
 <br>
 
+<a href="https://app.daily.dev/mggdev"><img src="https://api.daily.dev/devcards/v2/NTVMhhsT6Pq1Wbj345gSh.png?type=default&r=gox"  width="250" alt="Marta Geraldo's Dev Card"/></a>
 
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="1"/>
