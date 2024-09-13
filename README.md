@@ -1,6 +1,6 @@
 
 
-![Marta Geraldo](https://raw.githubusercontent.com/MGBrave/mgbrave/793f2acc35b35a77c8c2df1a622fad41b384d358/top_wave2.svg)
+![Marta Geraldo](https://raw.githubusercontent.com/mggcode/mggcode/793f2acc35b35a77c8c2df1a622fad41b384d358/top_wave2.svg)
 
 <!--![Visitor Count](https://profile-counter.glitch.me/MGBrave/count.svg)
 <a href="https://app.daily.dev/mggdev"><img src="https://api.daily.dev/devcards/v2/NTVMhhsT6Pq1Wbj345gSh.png?type=default&r=gox" width="356" alt="Marta Geraldo's Dev Card"/></a>-->
