@@ -526,7 +526,37 @@
       </a>
       <br/>
       <a href="https://github.com/SimonePenido">Ravel da Costa Melo</a>
+    </td>
+   <tr>
+    <td align="center">
+      <a href="https://github.com/Charles-Chrismann">
+        <img src="https://avatars.githubusercontent.com/u/78157563?v=4" width="50px;" alt="Charles-Chrismann"/>
+      </a>
+      <br/>
+      <a href="https://github.com/Charles-Chrismann">Charles Chrismann</a>
     </td> 
+   <td align="center">
+      <a href="https://github.com/IslamovMukhammad">
+        <img src="https://avatars.githubusercontent.com/u/91754226?v=4" width="50px;" alt="IslamovMukhammad"/>
+      </a>
+      <br/>
+      <a href="https://github.com/IslamovMukhammad">Islamov Mukhammad</a>
+    </td> 
+   <td align="center">
+      <a href="https://github.com/Adriano360">
+        <img src="https://avatars.githubusercontent.com/u/120762101?v=4" width="50px;" alt="Adriano360"/>
+      </a>
+      <br/>
+      <a href="https://github.com/Adriano360">Adriano360</a>
+    </td> 
+     <td align="center">
+      <a href="https://github.com/Andre-1845">
+        <img src="https://avatars.githubusercontent.com/u/132413967?v=4" width="50px;" alt="Andre-1845"/>
+      </a>
+      <br/>
+      <a href="https://github.com/Andre-1845">Andre-1845</a>
+    </td> 
+   </tr>
   </tr>
    <!--
     **********************
