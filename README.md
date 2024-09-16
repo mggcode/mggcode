@@ -1,4 +1,8 @@
-![Visitor Count](https://profile-counter.glitch.me/MGBrave/count.svg)
+
+
+
+
+
 
 ![Marta Geraldo](https://raw.githubusercontent.com/mggcode/mggcode/793f2acc35b35a77c8c2df1a622fad41b384d358/top_wave2.svg)
 
@@ -636,7 +640,7 @@
  </a>
  
 
-
+![Visitor Count](https://profile-counter.glitch.me/MGBrave/count.svg)
 
 
 
