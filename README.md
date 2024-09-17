@@ -109,9 +109,10 @@
 <br>
 <br>
 
+<img src="https://github.com/mggcode/mggcode/blob/main/image/dino.gif?raw=true" width="60%"/>
 
 <br>
-
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="100%" height="1"/>
 
 
 ## <img src="https://www.animatedimages.org/data/media/466/animated-thank-you-image-0156.gif" width="60px;" height="60px" alt="thanks"/>  My Followers
