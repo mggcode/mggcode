@@ -595,10 +595,6 @@
 
 ![Snake animation](https://raw.githubusercontent.com/Envoy-VC/Envoy-VC/output/github-contribution-grid-snake-dark.svg)
 
-<br>
-
-
-
 
 <br>
 
@@ -620,7 +616,7 @@
 
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-0078D4.svg)](http://commonmark.org) 
                                                                                                                
-[![M. geraldo](https://custom-icon-badges.herokuapp.com/badge/-M.%20Geraldo-blue?style=social-square&logo=mggcode&logoColor=white)](https://martageraldo.netlify.app/) <!--https://custom-icon-badges.herokuapp.com/ -->
+[![M. geraldo](https://custom-icon-badges.herokuapp.com/badge/-mggcode-blue?style=social-square&logo=mggcode&logoColor=white)](https://martageraldo.netlify.app/) <!--https://custom-icon-badges.herokuapp.com/ -->
 
 <br>
 
