@@ -553,7 +553,7 @@
     </td> 
      <td align="center">
       <a href="https://github.com/Andre-1845">
-        <img src="https://avatars.githubusercontent.com/u/132413967?v=4" width="50px;" alt="Andre-1845"/>
+       <img src="https://avatars.githubusercontent.com/u/132413967?v=4" style="border-radius:50" width="50px;" alt="Andre-1845"/>
       </a>
       <br/>
       <a href="https://github.com/Andre-1845">Andre-1845</a>
