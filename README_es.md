@@ -16,7 +16,7 @@
 
 <br>
 <br>
-<img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=50&duration=3800&color=447FF7&background=FFFFFF00&center=true&vCenter=true&width=650&height=55&lines=Hey!+It's+Marta+%F0%9F%91%8B%F0%9F%8F%BB;I'm+a+Software+Developer+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;I'm+from+Brazil+%F0%9F%87%A7%F0%9F%87%B7;" alt="mggcode" width="950" height="90">
+<img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=50&duration=3800&color=447FF7&background=FFFFFF00&center=true&vCenter=true&width=650&height=55&lines=¡Hola!+Soy+Marta+%F0%9F%91%8B%F0%9F%8F%BB;Soy+brasileña;y+desarrollador+de+Software+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;" alt="mggcode" width="950" height="90">
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
@@ -26,32 +26,32 @@
 <br>
 <br>
 
-### More about me
+### Más sobre mí
 
 <br>
 
-<img align="left" width="100px"  src="https://github.com/mggcode/mggcode/blob/main/image/mgg.png?raw=true">I am a front-end developer with a solid academic background in Software Engineering and a postgratuation in quality and testing. With experience in freelance projects, I create customized solutions using HTML5, CSS3, JavaScript, React, and other modern technologies. My approach is user-centered, always aiming for intuitive interfaces and responsive design.
+<img align="left" width="100px"  src="https://github.com/mggcode/mggcode/blob/main/image/mgg.png?raw=true">Soy desarrollador front-end con una sólida formación académica en Ingeniería de Software y una especialización en calidad y pruebas. Con experiencia en proyectos freelance, creo soluciones personalizadas utilizando HTML5, CSS3, JavaScript, React y otras tecnologías modernas. Mi enfoque está centrado en el usuario, siempre buscando interfaces intuitivas y un diseño responsivo.
 
-Currently, I also work as a Health Agent, where I develop skills in communication and data management. With a background in Human Resources, I am organized and detail-oriented, which helps me manage projects efficiently.
+Actualmente, también trabajo como Agente de Salud, donde desarrollo habilidades en comunicación y gestión de datos. Con un historial en Recursos Humanos, soy organizado y atento a los detalles, lo que me ayuda a gestionar proyectos de manera eficiente.
 
-I am always looking for new challenges and opportunities to grow professionally. Let's connect!
+Siempre estoy en busca de nuevos desafíos y oportunidades para crecer profesionalmente. ¡Conectemos!
 
 <br>
 
 <a href="https://app.daily.dev/mggdev"><img src="https://api.daily.dev/devcards/v2/NTVMhhsT6Pq1Wbj345gSh.png?type=default&r=gox" align="right" width="200" alt="Marta Geraldo's Dev Card"/></a>
 
-### Talking about Personal Stuff:
+### Hablando de cosas personales:
 
 <br>
 
-- 💻 &nbsp; I love exploring new technologies and building cool stuff.
-- 📰 &nbsp; Reading, writing & watching Tech Stuff whenever possible.
-- 💬 &nbsp; Ask me anything [here](https://github.com/mggcode/mggcode/issues)! I am happy to help.
-- 📫 &nbsp; Reach me out: mggeraldo@protonmail.com.
+- 💻 &nbsp; Me encanta explorar nuevas tecnologías y crear cosas interesantes.
+- 📰 &nbsp; Leer, escribir y ver videos de tecnologia siempre que sea posible.
+- 💬 &nbsp; Pregúntame alguma cosa [aqui](https://github.com/mggcode/mggcode/issues)! Estaré feliz de poder ayudar.
+- 📫 &nbsp; Contáctame: mggeraldo@protonmail.com.
 
 <br>
 
-### Connect with Me 
+### ¡Conectemos! 
 
 <br>
 
@@ -97,7 +97,7 @@ I am always looking for new challenges and opportunities to grow professionally.
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="100%" height="1"/>
 
 
-## <img src="https://github.com/MGBrave/certificados/blob/main/certificados/logomgg/metrics.png" width="35"> GitHub Analytics 
+## <img src="https://github.com/MGBrave/certificados/blob/main/certificados/logomgg/metrics.png" width="35"> Análisis de GitHub
 
 <br>
 
@@ -127,10 +127,10 @@ I am always looking for new challenges and opportunities to grow professionally.
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="100%" height="1"/>
 
 
-## <img src="https://www.animatedimages.org/data/media/466/animated-thank-you-image-0156.gif" width="60px;" height="60px" alt="thanks"/>  My Followers
+## <img src="https://www.animatedimages.org/data/media/466/animated-thank-you-image-0156.gif" width="60px;" height="60px" alt="thanks"/>  Mis seguidores
 
 <details>
-<summary>Expand</summary>
+<summary>Expandir</summary>
 
 <br>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0370.gif" width="100%" height="5px"></img>
@@ -586,7 +586,7 @@ I am always looking for new challenges and opportunities to grow professionally.
 
 <br>
 
- ## 📝 My latest posts 
+ ## 📝 Mis últimas publicaciones
  - <img src="https://github.com/mggcode/mggcode/blob/main/image/dioiconbg.png?raw=true" width="20px;" alt=""/>[Porque a Cibersegurança é importante](https://web.dio.me/articles/por-que-a-ciberseguranca-e-importante?back=%2Farticles&page=1&order=oldest) <br>
 - <img src="https://github.com/mggcode/mggcode/blob/main/image/dioiconbg.png?raw=true" width="20px;" alt=""/> [Como Programadores de Software Podem Reduzir seus Vieses de Confirmação e Preconceitos em Seus Códigos](https://web.dio.me/articles/como-programadores-de-software-podem-reduzir-seus-vieses-de-confirmacao-e-preconceitos-em-seus-codigos?back=%2Farticles&page=1&order=oldest) <br>
 - <img src="https://github.com/mggcode/mggcode/blob/main/image/dioiconbg.png?raw=true" width="20px;" alt=""/> [Revolução da IA nos Eletrodomésticos: O Impacto na Gestão da Casa e no Trabalho Doméstico](https://web.dio.me/articles/a-revolucao-da-ia-nos-eletrodomesticos-o-impacto-na-gestao-da-casa-e-no-trabalho-domestico?back=%2Farticles&page=1&order=oldest) <br>
@@ -612,7 +612,7 @@ I am always looking for new challenges and opportunities to grow professionally.
 
 <br>
 
-### Now Playing 🎧
+### Tocando ahora🎧
 
 [![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/playlist/1vB47FRDNhBzSLXiYHe11J)
 <br/>
