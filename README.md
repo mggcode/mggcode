@@ -24,7 +24,7 @@
 <br>
 <br>
 
-### Professional Summary
+### More about me
 
 I am a front-end developer with a solid academic background in Software Engineering and a postgratuation in quality and testing. With experience in freelance projects, I create customized solutions using HTML5, CSS3, JavaScript, React, and other modern technologies. My approach is user-centered, always aiming for intuitive interfaces and responsive design.
 
@@ -36,10 +36,15 @@ I am always looking for new challenges and opportunities to grow professionally.
 
 <br>
 
-<a href="https://app.daily.dev/mggdev"><img src="https://api.daily.dev/devcards/v2/NTVMhhsT6Pq1Wbj345gSh.png?type=default&r=gox"  width="250" alt="Marta Geraldo's Dev Card"/></a>
+<a href="https://app.daily.dev/mggdev"><img src="https://api.daily.dev/devcards/v2/NTVMhhsT6Pq1Wbj345gSh.png?type=default&r=gox" align="right" width="250" alt="Marta Geraldo's Dev Card"/></a>
 
+### Talking about Personal Stuff:
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="1"/>
+- 💻 &nbsp; I love exploring new technologies and building cool stuff.
+- 📰 &nbsp; Reading, writing & watching Tech Stuff whenever possible.
+- 💬 &nbsp; Ask me anything [here] (https://github.com/mggcode/)! I am happy to help.
+- 📫 &nbsp; Reach me out: mggeraldo@protonmail.com.
+
 
 ## <img src="https://github.com/MGBrave/certificados/blob/main/certificados/logomgg/FOLLOW.png" width="30"> Connect with Me <img src="https://www.animatedimages.org/data/media/56/animated-computer-image-0077.gif" width="50" height=""></img>
 
