@@ -585,7 +585,7 @@ Estou sempre em busca de novos desafios e oportunidades para crescer profissiona
 
 <br>
 
- ## 📝 My latest posts 
+ ## 📝 Meus últimos posts
  - <img src="https://github.com/mggcode/mggcode/blob/main/image/dioiconbg.png?raw=true" width="20px;" alt=""/>[Porque a Cibersegurança é importante](https://web.dio.me/articles/por-que-a-ciberseguranca-e-importante?back=%2Farticles&page=1&order=oldest) <br>
 - <img src="https://github.com/mggcode/mggcode/blob/main/image/dioiconbg.png?raw=true" width="20px;" alt=""/> [Como Programadores de Software Podem Reduzir seus Vieses de Confirmação e Preconceitos em Seus Códigos](https://web.dio.me/articles/como-programadores-de-software-podem-reduzir-seus-vieses-de-confirmacao-e-preconceitos-em-seus-codigos?back=%2Farticles&page=1&order=oldest) <br>
 - <img src="https://github.com/mggcode/mggcode/blob/main/image/dioiconbg.png?raw=true" width="20px;" alt=""/> [Revolução da IA nos Eletrodomésticos: O Impacto na Gestão da Casa e no Trabalho Doméstico](https://web.dio.me/articles/a-revolucao-da-ia-nos-eletrodomesticos-o-impacto-na-gestao-da-casa-e-no-trabalho-domestico?back=%2Farticles&page=1&order=oldest) <br>
@@ -611,7 +611,7 @@ Estou sempre em busca de novos desafios e oportunidades para crescer profissiona
 
 <br>
 
-### Now Playing 🎧
+### Tocando agora🎧
 
 [![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/playlist/1vB47FRDNhBzSLXiYHe11J)
 <br/>
