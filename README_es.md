@@ -4,7 +4,7 @@
 
 <table align="right">
  <tr><td><a href="README.md"><img src="image/us-flag.png" height="15"> English</a></td></tr>
- <tr><td><a href="README_fr.md"><img src="image/sp_flag.png" width="15" height="10">Español</a></td></tr>
+ <tr><td><a href="README_es.md"><img src="image/sp_flag.png" width="15" height="10">Español</a></td></tr>
   <tr><td><a href="README_pt.md"><img src="image/br-flag.png" width="15" height="15"> Português</a></td></tr>
 </table>
 
