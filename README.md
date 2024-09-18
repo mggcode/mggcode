@@ -32,21 +32,22 @@ Currently, I also work as a Health Agent, where I develop skills in communicatio
 
 I am always looking for new challenges and opportunities to grow professionally. Let's connect!
 
-
-
 <br>
 
-<a href="https://app.daily.dev/mggdev"><img src="https://api.daily.dev/devcards/v2/NTVMhhsT6Pq1Wbj345gSh.png?type=default&r=gox" align="right" width="250" alt="Marta Geraldo's Dev Card"/></a>
+<a href="https://app.daily.dev/mggdev"><img src="https://api.daily.dev/devcards/v2/NTVMhhsT6Pq1Wbj345gSh.png?type=default&r=gox" align="right" width="200" alt="Marta Geraldo's Dev Card"/></a>
 
 ### Talking about Personal Stuff:
 
+<br>
+
 - 💻 &nbsp; I love exploring new technologies and building cool stuff.
 - 📰 &nbsp; Reading, writing & watching Tech Stuff whenever possible.
-- 💬 &nbsp; Ask me anything [here] (https://github.com/mggcode/mggcode/issues)! I am happy to help.
+- 💬 &nbsp; Ask me anything [here](https://github.com/mggcode/mggcode/issues)! I am happy to help.
 - 📫 &nbsp; Reach me out: mggeraldo@protonmail.com.
 
+<br>
 
-## <img src="https://github.com/MGBrave/certificados/blob/main/certificados/logomgg/FOLLOW.png" width="30"> Connect with Me <img src="https://www.animatedimages.org/data/media/56/animated-computer-image-0077.gif" width="50" height=""></img>
+### Connect with Me 
 
 <br>
 
@@ -60,7 +61,7 @@ I am always looking for new challenges and opportunities to grow professionally.
 <br> <br>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="100%" height="2,5"/>
 <br>
-## <img src="https://github.com/MGBrave/certificados/blob/main/certificados/logomgg/lista.png" width="30"> Tech Stack  
+### <img src="https://github.com/MGBrave/certificados/blob/main/certificados/logomgg/lista.png" width="30"> Tech Stack  
 <br>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width= "40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width= "40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width= "40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width= "40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width= "40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width= "40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" width= "40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width= "40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width= "40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width= "40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width= "40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg"  width= "40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width= "40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"  width= "40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"  width= "40" /><img src="https://github.com/MGBrave/flight/blob/main/vitelogo.png?raw=true" alt="vite" width="50" height="40"/>
@@ -97,9 +98,7 @@ I am always looking for new challenges and opportunities to grow professionally.
 <br>
 
 
- [![status](https://github-readme-stats.vercel.app/api?username=mggcode&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=6a11cb&text_color=FFFFFF&bg_color=0,FF057C,8D0B93,321575)](https://github.com/mggcode)
- 
-![ Badge](https://github-readme-stats.vercel.app/api/top-langs/?username=mggcode&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=fff&title_color=fff&icon_color=6a11cb&bg_color=0,321575,8D0B93,FF057C)
+[![status](https://github-readme-stats.vercel.app/api?username=mggcode&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=6a11cb&text_color=FFFFFF&bg_color=0,FF057C,8D0B93,321575)](https://github.com/mggcode)  ![ Badge](https://github-readme-stats.vercel.app/api/top-langs/?username=mggcode&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=fff&title_color=fff&icon_color=6a11cb&bg_color=0,321575,8D0B93,FF057C)
 
 <br> 
 
