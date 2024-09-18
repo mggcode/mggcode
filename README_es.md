@@ -643,6 +643,7 @@ Siempre estoy en busca de nuevos desafíos y oportunidades para crecer profesion
 <!--ENDS_HERE_QUOTE_README-->
  </a>
  
+ ![Visitas](https://raw.githubusercontent.com/mggcode/mggcode/4764afbb2b85daea209803288017ce767d2f5b63/image/visitsvg/visita_es.svg)
 
 ![Visitor Count](https://profile-counter.glitch.me/MGBrave/count.svg)
 
