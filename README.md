@@ -584,13 +584,11 @@ I am always looking for new challenges and opportunities to grow professionally.
 <br>
 
  ## 📝 My latest posts 
- 
-
-* [Porque a Cibersegurança é importante](https://web.dio.me/articles/por-que-a-ciberseguranca-e-importante?back=%2Farticles&page=1&order=oldest) <br>
-* [Como Programadores de Software Podem Reduzir seus Vieses de Confirmação e Preconceitos em Seus Códigos](https://web.dio.me/articles/como-programadores-de-software-podem-reduzir-seus-vieses-de-confirmacao-e-preconceitos-em-seus-codigos?back=%2Farticles&page=1&order=oldest) <br>
-* [Revolução da IA nos Eletrodomésticos: O Impacto na Gestão da Casa e no Trabalho Doméstico](https://web.dio.me/articles/a-revolucao-da-ia-nos-eletrodomesticos-o-impacto-na-gestao-da-casa-e-no-trabalho-domestico?back=%2Farticles&page=1&order=oldest) <br>
+ - <img src="https://github.com/mggcode/mggcode/blob/main/image/dioiconbg.png?raw=true" width="20px;" alt=""/>[Porque a Cibersegurança é importante](https://web.dio.me/articles/por-que-a-ciberseguranca-e-importante?back=%2Farticles&page=1&order=oldest) <br>
+- <img src="https://github.com/mggcode/mggcode/blob/main/image/dioiconbg.png?raw=true" width="20px;" alt=""/> [Como Programadores de Software Podem Reduzir seus Vieses de Confirmação e Preconceitos em Seus Códigos](https://web.dio.me/articles/como-programadores-de-software-podem-reduzir-seus-vieses-de-confirmacao-e-preconceitos-em-seus-codigos?back=%2Farticles&page=1&order=oldest) <br>
+- <img src="https://github.com/mggcode/mggcode/blob/main/image/dioiconbg.png?raw=true" width="20px;" alt=""/> [Revolução da IA nos Eletrodomésticos: O Impacto na Gestão da Casa e no Trabalho Doméstico](https://web.dio.me/articles/a-revolucao-da-ia-nos-eletrodomesticos-o-impacto-na-gestao-da-casa-e-no-trabalho-domestico?back=%2Farticles&page=1&order=oldest) <br>
 * [Deepfake and Elections: Challenges and Implications for Democracy](https://dev.to/mggdev/deepfake-and-elections-challenges-and-implications-for-democracy-2e24)
-* [Mais de 40 Bibliotecas de Ícones Essenciais para Todos os Seus Projetos de Design](https://web.dio.me/articles/mais-de-40-bibliotecas-de-icones-essenciais-para-todos-os-seus-projetos-de-design?back=%2Farticles&page=1&order=oldest)
+- <img src="https://github.com/mggcode/mggcode/blob/main/image/dioiconbg.png?raw=true" width="20px;" alt=""/> [Mais de 40 Bibliotecas de Ícones Essenciais para Todos os Seus Projetos de Design](https://web.dio.me/articles/mais-de-40-bibliotecas-de-icones-essenciais-para-todos-os-seus-projetos-de-design?back=%2Farticles&page=1&order=oldest)
 
 
 <br>
