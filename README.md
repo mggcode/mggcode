@@ -7,18 +7,14 @@
 <br>
 
 
- <!--
- 
-<img src="https://github.com/MGBrave/mgbrave/blob/main/image/girlcode.gif?raw=true"  width="300"></p>
 
-<img src="https://github.com/MGBrave/certificados/blob/main/certificados/logomgg/LOGOmggcode100.png" width="30"> -->
 
 
 <br>
 <br>
 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=50&duration=3800&color=447FF7&background=FFFFFF00&center=true&vCenter=true&width=650&height=55&lines=Hey!+It's+mggcode+%F0%9F%91%8B%F0%9F%8F%BB;I'm+a+Software+Developer+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;I'm+from+Brazil+%F0%9F%87%A7%F0%9F%87%B7;" alt="mggcode" width="950" height="90">
+<img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=50&duration=3800&color=447FF7&background=FFFFFF00&center=true&vCenter=true&width=650&height=55&lines=Hey!+It's+Marta+%F0%9F%91%8B%F0%9F%8F%BB;I'm+a+Software+Developer+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;I'm+from+Brazil+%F0%9F%87%A7%F0%9F%87%B7;" alt="mggcode" width="950" height="90">
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
@@ -27,6 +23,15 @@
 <br>
 <br>
 <br>
+
+### Professional Summary
+
+I am a front-end developer with a solid academic background in Software Engineering and a postgratuation in quality and testing. With experience in freelance projects, I create customized solutions using HTML5, CSS3, JavaScript, React, and other modern technologies. My approach is user-centered, always aiming for intuitive interfaces and responsive design.
+
+Currently, I also work as a Health Agent, where I develop skills in communication and data management. With a background in Human Resources, I am organized and detail-oriented, which helps me manage projects efficiently.
+
+I am always looking for new challenges and opportunities to grow professionally. Let's connect!
+
 
 
 <br>
