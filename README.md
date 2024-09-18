@@ -1,6 +1,6 @@
 
 
-![Marta Geraldo](https://raw.githubusercontent.com/mggcode/mggcode/793f2acc35b35a77c8c2df1a622fad41b384d358/top_wave2.svg)
+![Marta Geraldo](https://raw.githubusercontent.com/mggcode/mggcode/5234625344e5066f7d6c339178b97965140539af/image/svg/header.svg)
 
 <table align="right">
  <tr><td><a href="README.md"><img src="image/us-flag.png" height="15"> English</a></td></tr>
