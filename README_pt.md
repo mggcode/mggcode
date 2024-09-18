@@ -16,7 +16,7 @@
 
 <br>
 <br>
-<img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=50&duration=3800&color=447FF7&background=FFFFFF00&center=true&vCenter=true&width=650&height=55&lines=Hey!+It's+Marta+%F0%9F%91%8B%F0%9F%8F%BB;I'm+a+Software+Developer+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;I'm+from+Brazil+%F0%9F%87%A7%F0%9F%87%B7;" alt="mggcode" width="950" height="90">
+<img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=50&duration=3800&color=447FF7&background=FFFFFF00&center=true&vCenter=true&width=650&height=55&lines=Olá!+%F0%9F%91%8B%F0%9F%8F%BB+Sou+a+Marta;brasileira;Desenvolvedora+de+Software+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;" alt="mggcode" width="950" height="90">
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
@@ -30,28 +30,27 @@
 
 <br>
 
-<img align="left" width="100px"  src="https://github.com/mggcode/mggcode/blob/main/image/mgg.png?raw=true">I am a front-end developer with a solid academic background in Software Engineering and a postgratuation in quality and testing. With experience in freelance projects, I create customized solutions using HTML5, CSS3, JavaScript, React, and other modern technologies. My approach is user-centered, always aiming for intuitive interfaces and responsive design.
+<img align="left" width="100px"  src="https://github.com/mggcode/mggcode/blob/main/image/mgg.png?raw=true">Sou desenvolvedor front-end com sólida formação acadêmica em Engenharia de Software e especialização em qualidade e testes. Com experiência em projetos autônomos, crio soluções personalizadas utilizando HTML5, CSS3, JavaScript, React e outras tecnologias modernas. Minha abordagem é centrada na experiência do usuário, sempre buscando interfaces intuitivas e design responsivo.
 
-Currently, I also work as a Health Agent, where I develop skills in communication and data management. With a background in Human Resources, I am organized and detail-oriented, which helps me manage projects efficiently.
+Atualmente, também atuo como Agente de Saúde, onde desenvolvo habilidades em comunicação e gestão de dados. Com um histórico em Recursos Humanos, sou organizado e atento aos detalhes, o que me ajuda a gerenciar projetos de forma eficiente.
 
-I am always looking for new challenges and opportunities to grow professionally. Let's connect!
-
+Estou sempre em busca de novos desafios e oportunidades para crescer profissionalmente.
 <br>
 
 <a href="https://app.daily.dev/mggdev"><img src="https://api.daily.dev/devcards/v2/NTVMhhsT6Pq1Wbj345gSh.png?type=default&r=gox" align="right" width="200" alt="Marta Geraldo's Dev Card"/></a>
 
-### Talking about Personal Stuff:
+### Mais sobre mim:
 
 <br>
 
-- 💻 &nbsp; I love exploring new technologies and building cool stuff.
-- 📰 &nbsp; Reading, writing & watching Tech Stuff whenever possible.
-- 💬 &nbsp; Ask me anything [here](https://github.com/mggcode/mggcode/issues)! I am happy to help.
-- 📫 &nbsp; Reach me out: mggeraldo@protonmail.com.
+- 💻 &nbsp; Gosto explorar novas tecnologias e construir coisas legais.
+- 📰 &nbsp; Ler, escrever, estudar e assistir videos sobre tecnologia sempre que possível.
+- 💬 &nbsp; Quer saber algo mais? [aqui](https://github.com/mggcode/mggcode/issues)! Ficarei feliz em ajudar.
+- 📫 &nbsp; Entre em contato comigo: mggeraldo@protonmail.com.
 
 <br>
 
-### Connect with Me 
+###  Vamos nos conectar!
 
 <br>
 
@@ -97,7 +96,7 @@ I am always looking for new challenges and opportunities to grow professionally.
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="100%" height="1"/>
 
 
-## <img src="https://github.com/MGBrave/certificados/blob/main/certificados/logomgg/metrics.png" width="35"> GitHub Analytics 
+## <img src="https://github.com/MGBrave/certificados/blob/main/certificados/logomgg/metrics.png" width="35"> Análises do  GitHub 
 
 <br>
 
@@ -127,10 +126,10 @@ I am always looking for new challenges and opportunities to grow professionally.
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="100%" height="1"/>
 
 
-## <img src="https://www.animatedimages.org/data/media/466/animated-thank-you-image-0156.gif" width="60px;" height="60px" alt="thanks"/>  My Followers
+## <img src="https://www.animatedimages.org/data/media/466/animated-thank-you-image-0156.gif" width="60px;" height="60px" alt="thanks"/>  Meus Seguidores
 
 <details>
-<summary>Expand</summary>
+<summary>Expandir</summary>
 
 <br>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0370.gif" width="100%" height="5px"></img>
