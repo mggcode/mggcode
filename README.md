@@ -4,8 +4,8 @@
 
 <table align="right">
  <tr><td><a href="README.md"><img src="image/us-flag.png" height="13"> English</a></td></tr>
- <tr><td><a href="README_fr.md"><img src="image/fr-flag.png" height="13"> Français</a></td></tr>
- <tr><td><a href="README_pt.md"><img src="image/br-flag.png" height="13"> Português</a></td></tr>
+ <tr><td><a href="README_fr.md"><img src="image/fr-flag.png" height="13">Español</a></td></tr>
+  <tr><td><a href="README_pt.md"><img src="image/br-flag.png" height="13"> Português</a></td></tr>
 </table>
 
 <br>
