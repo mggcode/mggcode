@@ -643,6 +643,7 @@ I am always looking for new challenges and opportunities to grow professionally.
 <!--ENDS_HERE_QUOTE_README-->
  </a>
  
+ ![Visitas](https://raw.githubusercontent.com/mggcode/mggcode/4764afbb2b85daea209803288017ce767d2f5b63/image/visitsvg/visita_en.svg)
 
 ![Visitor Count](https://profile-counter.glitch.me/MGBrave/count.svg)
 
