@@ -26,7 +26,7 @@
 <br>
 <br>
 
-### More about me
+### Sobre mim
 
 <br>
 
@@ -104,29 +104,22 @@ Estou sempre em busca de novos desafios e oportunidades para crescer profissiona
 [![status](https://github-readme-stats.vercel.app/api?username=mggcode&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=6a11cb&text_color=FFFFFF&bg_color=0,FF057C,8D0B93,321575)](https://github.com/mggcode)  ![ Badge](https://github-readme-stats.vercel.app/api/top-langs/?username=mggcode&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=fff&title_color=fff&icon_color=6a11cb&bg_color=0,321575,8D0B93,FF057C)
 
 <br> 
-
-
-
  <br>
 
 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="100%" height="1"/>
 
+<br>
+<br>
 
+<img align="center" src="https://github.com/mggcode/mggcode/blob/main/image/dino.gif?raw=true"  width="90%"/>
 
+<br>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="100%" height="1"/>
 
 
-<br>
-<br>
-
-<img src="https://github.com/mggcode/mggcode/blob/main/image/dino.gif?raw=true" width="60%"/>
-
-<br>
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="100%" height="1"/>
-
-
-## <img src="https://www.animatedimages.org/data/media/466/animated-thank-you-image-0156.gif" width="60px;" height="60px" alt="thanks"/>  Meus Seguidores
+## <img src="https://www.animatedimages.org/data/media/466/animated-thank-you-image-0156.gif" width="60px;"  height="60px" alt="thanks"/>  Meus Seguidores
 
 <details>
 <summary>Expandir</summary>
@@ -576,6 +569,7 @@ Estou sempre em busca de novos desafios e oportunidades para crescer profissiona
     **********************
      -->
 </table>
+
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0370.gif" width="100%" height="5px"/>
 
 </details>
