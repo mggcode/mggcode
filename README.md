@@ -3,9 +3,9 @@
 ![Marta Geraldo](https://raw.githubusercontent.com/mggcode/mggcode/793f2acc35b35a77c8c2df1a622fad41b384d358/top_wave2.svg)
 
 <table align="right">
- <tr><td><a href="README.md"><img src="image/us-flag.png" height="13"> English</a></td></tr>
- <tr><td><a href="README_fr.md"><img src="image/fr-flag.png" height="13">Español</a></td></tr>
-  <tr><td><a href="README_pt.md"><img src="image/br-flag.png" height="13"> Português</a></td></tr>
+ <tr><td><a href="README.md"><img src="image/us-flag.png" height="15"> English</a></td></tr>
+ <tr><td><a href="README_fr.md"><img src="image/sp_flag.png" width="15" height="10">Español</a></td></tr>
+  <tr><td><a href="README_pt.md"><img src="image/br-flag.png" width="15" height="15"> Português</a></td></tr>
 </table>
 
 <br>
