@@ -1,5 +1,3 @@
-
-
 ![Marta Geraldo](https://raw.githubusercontent.com/mggcode/mggcode/3403038fdf82ca1bada6f2e632be062f3ff8936d/svg/header.svg)
 
 <table align="right">
@@ -7,12 +5,6 @@
  <tr><td><a href="README_es.md"><img src="image/sp_flag.png" width="15" height="10">Español</a></td></tr>
   <tr><td><a href="README_pt.md"><img src="image/br-flag.png" width="15" height="15"> Português</a></td></tr>
 </table>
-
-<br>
-
-
-
-
 
 <br>
 <br>
