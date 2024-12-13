@@ -557,15 +557,11 @@ I am always looking for new challenges and opportunities to grow professionally.
     </td> 
      <td align="center">
       <a href=" https://github.com/XiaomingX">
-        <img src="https://avatars.githubusercontent.com/u/120762101?v=4" width="50px;" alt="XiaomingX"/>
+        <img src="https://avatars.githubusercontent.com/u/5387930?v=4" width="50px;" alt="XiaomingX"/>
       </a>
       <br/>
       <a href="https://github.com/XiaomingX">XiaomingX</a>
     </td> 
-
-
-
-    https://github.com/XiaomingX
      <td align="center">
       <a href="https://github.com/Andre-1845">
        <img src="https://avatars.githubusercontent.com/u/132413967?v=4" style="border-radius:50" width="50px;" alt="Andre-1845"/>
