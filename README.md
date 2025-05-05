@@ -637,7 +637,7 @@ I am always looking for new challenges and opportunities to grow professionally.
 
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝4004 was the name given to the first microprocessor by Intel.❞</i>
+<i>❝“Java is the most distressing thing to hit computing since MS-DOS.”— Alan Kay  ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
  </a>
  
