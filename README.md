@@ -21,7 +21,7 @@
 ### More about me
 
 <br>
-
+<!--
 <img align="left" width="100px"  src="https://github.com/mggcode/mggcode/blob/main/image/mgg.png?raw=true">I am a front-end developer with a solid academic background in Software Engineering and a postgratuation in quality and testing. With experience in freelance projects, I create customized solutions using HTML5, CSS3, JavaScript, React, and other modern technologies. My approach is user-centered, always aiming for intuitive interfaces and responsive design.
 
 Currently, I also work as a Health Agent, where I develop skills in communication and data management. With a background in Human Resources, I am organized and detail-oriented, which helps me manage projects efficiently.
@@ -42,7 +42,7 @@ I am always looking for new challenges and opportunities to grow professionally.
 - 📫 &nbsp; Reach me out: mggeraldo@protonmail.com.
 
 <br>
-
+-->
 ### Connect with Me 
 
 <br>
