@@ -21,6 +21,61 @@
 ### More about me
 
 <br>
+
+# 👋 Hello, Eu sou Marta.
+
+<br>
+
+**Full-Stack Developer | InfoSec Enthusiast | UX-Focused | Lifelong Learner**
+
+Sou um desenvolvedor full-stack com uma base sólida em **desenvolvimento front-end**, formação acadêmica em **Engenharia de Software** e pós-graduação em **Qualidade e Testes**. Construo aplicações web confiáveis e centradas no usuário com tecnologias como:
+
+- 🌐 **HTML5, CSS3, JavaScript, React**
+- ⚙️ **Node.js**
+- 🔐 **Boas práticas de Segurança da Informação**
+
+Seja criando interfaces responsivas ou desenvolvendo backends seguros, sou movido por código limpo, usabilidade e performance.
+
+---
+
+## 🔍 O que me diferencia?
+
+💼 **Desenvolvedor Freelancer**  
+Entreguei soluções sob medida para clientes reais, com foco em performance, acessibilidade e segurança.
+
+👨‍⚕️ **Agente de Saúde**  
+Aprimorei habilidades em **comunicação**, **organização de dados** e **raciocínio crítico** – fundamentais tanto na tecnologia quanto na área da saúde.
+
+👥 **Experiência em Recursos Humanos**  
+Desenvolvi capacidade para **gerenciar equipes**, **cumprir prazos** e manter uma **documentação detalhada e precisa**.
+
+🔒 **Desenvolvedor com foco em segurança**  
+Acredito que um bom sistema começa com uma base segura.
+
+---
+
+## 🚀 Atualmente explorando:
+
+- DevOps & pipelines de CI/CD  
+- Autenticação avançada (OAuth2, JWT, etc.)  
+- Testes de penetração e hacking ético  
+- Acessibilidade web e otimização de performance
+- Cibersegurança
+- OT
+- IA
+
+---
+
+## 💬 Vamos conversar?
+
+Estou sempre aberto a colaborações, oportunidades de aprendizado ou uma boa conversa sobre tecnologia.  
+📫 **Entre em contato pelo**
+
+
+
+
+
+<br>
 <!--
 <img align="left" width="100px"  src="https://github.com/mggcode/mggcode/blob/main/image/mgg.png?raw=true">I am a front-end developer with a solid academic background in Software Engineering and a postgratuation in quality and testing. With experience in freelance projects, I create customized solutions using HTML5, CSS3, JavaScript, React, and other modern technologies. My approach is user-centered, always aiming for intuitive interfaces and responsive design.
 
@@ -43,6 +98,7 @@ I am always looking for new challenges and opportunities to grow professionally.
 
 <br>
 -->
+
 ### Connect with Me 
 
 <br>
@@ -640,8 +696,10 @@ I am always looking for new challenges and opportunities to grow professionally.
 <i>❝“Yes, we have a dress code. You have to dress.”— Scott McNealy, co-founder of Sun Microsystems   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
  </a>
+
  
  ![Visitas](https://raw.githubusercontent.com/mggcode/mggcode/4764afbb2b85daea209803288017ce767d2f5b63/image/visitsvg/visita_en.svg)
+
 
 ![Visitor Count](https://profile-counter.glitch.me/MGBrave/count.svg)
 
