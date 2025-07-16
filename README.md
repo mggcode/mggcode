@@ -23,93 +23,64 @@
 
 <br>
 <br>
+# **Full-Stack Developer | InfoSec Enthusiast | UX-Focused | Lifelong Learner**
 
-**Full-Stack Developer | InfoSec Enthusiast | UX-Focused | Lifelong Learner**
+I'm a full-stack developer with a strong foundation in **front-end development**, an academic background in **Software Engineering**, and a post-graduate degree in **Quality and Testing**. I build reliable, user-centered web applications using technologies such as:
 
-<br>
+- 🌐 **HTML5, CSS3, JavaScript, React**  
+- ⚙️ **Node.js**  
+- 🔐 **Information Security Best Practices**
 
-Sou um desenvolvedor full-stack com uma base sólida em **desenvolvimento front-end**, formação acadêmica em **Engenharia de Software** e pós-graduação em **Qualidade e Testes**. Construo aplicações web confiáveis e centradas no usuário com tecnologias como:
-
-<br>
-
-- 🌐 **HTML5, CSS3, JavaScript, React**
-- ⚙️ **Node.js**
-- 🔐 **Boas práticas de Segurança da Informação**
-
-<br>
-
-Seja criando interfaces responsivas ou desenvolvendo backends seguros, sou movido por código limpo, usabilidade e performance.
-
-<br>
-
+Whether creating responsive interfaces or developing secure backends, I’m driven by clean code, usability, and performance.
 
 ---
 
-## 🔍 O que me diferencia?
+## 🔍 What sets me apart?
 
-<br>
+💼 **Freelance Developer**  
+Delivered custom solutions for real clients, focusing on performance, accessibility, and security.
 
-💼 **Desenvolvedor Freelancer**  
-Entreguei soluções sob medida para clientes reais, com foco em performance, acessibilidade e segurança.
+👨‍⚕️ **Healthcare Worker**  
+Sharpened skills in **communication**, **data organization**, and **critical thinking**—all essential in both tech and healthcare.
 
-<br>
+👥 **Human Resources Experience**  
+Gained the ability to **manage teams**, **meet deadlines**, and maintain **detailed, accurate documentation**.
 
-👨‍⚕️ **Agente de Saúde**  
-Aprimorei habilidades em **comunicação**, **organização de dados** e **raciocínio crítico** – fundamentais tanto na tecnologia quanto na área da saúde.
-
-<br>
-
-👥 **Experiência em Recursos Humanos**  
-Desenvolvi capacidade para **gerenciar equipes**, **cumprir prazos** e manter uma **documentação detalhada e precisa**.
-
-<br>
-
-🔒 **Desenvolvedor com foco em segurança**  
-Acredito que um bom sistema começa com uma base segura.
+🔒 **Security-Oriented Developer**  
+I believe that a solid system starts with a secure foundation.
 
 ---
 
-<br>
+## 🚀 Currently exploring:
 
-## 🚀 Atualmente explorando:
-
-<br>
-
-- DevOps & pipelines de CI/CD  
-- Autenticação avançada (OAuth2, JWT, etc.)  
-- Testes de penetração e hacking ético  
-- Acessibilidade web e otimização de performance
-- Cibersegurança
-- OT
-- IA
-
----
-### Talking about Personal Stuff:
-
-<br>
-
-- 💻 &nbsp; Adoro explorar novas tecnologias e construir coisas legais.
-- 📰 &nbsp; ler, escrever e estudar Tecnologia sempre que possivel.
-- 💬 &nbsp; Faça uma pergunta [Aqui](https://github.com/mggcode/mggcode/issues)! Ficarei feliz em ajudar
-- 📫 &nbsp; Reach me out: mggeraldo@protonmail.com.
-
-<br>
+- DevOps & CI/CD pipelines  
+- Advanced authentication (OAuth2, JWT, etc.)  
+- Penetration testing and ethical hacking  
+- Web accessibility and performance optimization  
+- Cybersecurity  
+- OT (Operational Technology)  
+- AI
 
 ---
 
-## 💬 Vamos conversar?
+### 👋 Talking about Personal Stuff:
 
-Estou sempre aberto a colaborações, oportunidades de aprendizado ou uma boa conversa sobre tecnologia.  
+- 💻 &nbsp; I love exploring new technologies and building cool things  
+- 📰 &nbsp; Reading, writing, and studying tech whenever possible  
+- 💬 &nbsp; Ask me anything [here](https://github.com/mggcode/mggcode/issues)! I’ll be happy to help  
+- 📫 &nbsp; Reach me at: **mggeraldo@protonmail.com**
 
-<br>
+---
 
-📫 **Entre em contato pelo**
+## 💬 Let’s talk?
 
-<br>
+I'm always open to collaborations, learning opportunities, or a good tech chat.
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=social-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marta-geraldo/)](https://www.linkedin.com/in/marta-geraldo/)
-[![Codepen Badge](https://img.shields.io/badge/-Codepen-black?style=social-square&logo=Codepen&logoColor=white&link=https://codepen.io/martageraldo)](https://codepen.io/martageraldo)
-[![card Badge](https://img.shields.io/badge/ProtonMail-8B89CC?style=social-square&logo=protonmail&logoColor=white)](mailto:mggeraldo@protonmail.com)
+📫 **Get in touch through**:
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=social-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marta-geraldo/)](https://www.linkedin.com/in/marta-geraldo/)  
+[![Codepen Badge](https://img.shields.io/badge/-Codepen-black?style=social-square&logo=Codepen&logoColor=white&link=https://codepen.io/martageraldo)](https://codepen.io/martageraldo)  
+[![ProtonMail Badge](https://img.shields.io/badge/ProtonMail-8B89CC?style=social-square&logo=protonmail&logoColor=white)](mailto:mggeraldo@protonmail.com)  
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=social-square&logo=Github&logoColor=white&link=https://github.com/martageraldo)](https://github.com/MGBrave)
 
 
