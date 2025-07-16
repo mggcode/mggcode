@@ -1,4 +1,4 @@
-![Marta Geraldo](https://raw.githubusercontent.com/mggcode/mggcode/3403038fdf82ca1bada6f2e632be062f3ff8936d/svg/header.svg)
+<!--![Marta Geraldo](https://raw.githubusercontent.com/mggcode/mggcode/3403038fdf82ca1bada6f2e632be062f3ff8936d/svg/header.svg)-->
 
 <table align="right">
  <tr><td><a href="README.md"><img src="image/us-flag.png" height="15"> English</a></td></tr>
@@ -8,22 +8,21 @@
 
 <br>
 <br>
+
+
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=50&duration=3800&color=447FF7&background=FFFFFF00&center=true&vCenter=true&width=650&height=55&lines=Hey!+It's+Marta+%F0%9F%91%8B%F0%9F%8F%BB;I'm+a+Software+Developer+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;I'm+from+Brazil+%F0%9F%87%A7%F0%9F%87%B7;" alt="mggcode" width="950" height="90">
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
+-->
+
+<br>
+<br>
+<br>
 
 
 <br>
-<br>
-<br>
-
-### More about me
-
-<br>
-
-# 👋 Hello, Eu sou Marta.
-
 <br>
 
 **Full-Stack Developer | InfoSec Enthusiast | UX-Focused | Lifelong Learner**
@@ -49,11 +48,17 @@ Seja criando interfaces responsivas ou desenvolvendo backends seguros, sou movid
 💼 **Desenvolvedor Freelancer**  
 Entreguei soluções sob medida para clientes reais, com foco em performance, acessibilidade e segurança.
 
+<br>
+
 👨‍⚕️ **Agente de Saúde**  
 Aprimorei habilidades em **comunicação**, **organização de dados** e **raciocínio crítico** – fundamentais tanto na tecnologia quanto na área da saúde.
 
+<br>
+
 👥 **Experiência em Recursos Humanos**  
 Desenvolvi capacidade para **gerenciar equipes**, **cumprir prazos** e manter uma **documentação detalhada e precisa**.
+
+<br>
 
 🔒 **Desenvolvedor com foco em segurança**  
 Acredito que um bom sistema começa com uma base segura.
@@ -104,7 +109,7 @@ Estou sempre aberto a colaborações, oportunidades de aprendizado ou uma boa co
 <br>
 <!--
 <img align="left" width="100px"  src="https://github.com/mggcode/mggcode/blob/main/image/mgg.png?raw=true">I am a front-end developer with a solid academic background in Software Engineering and a postgratuation in quality and testing. With experience in freelance projects, I create customized solutions using HTML5, CSS3, JavaScript, React, and other modern technologies. My approach is user-centered, always aiming for intuitive interfaces and responsive design.
-
+-->
 
 
 <br>
