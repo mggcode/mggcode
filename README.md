@@ -10,12 +10,11 @@
 <br>
 
 
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=50&duration=3800&color=447FF7&background=FFFFFF00&center=true&vCenter=true&width=650&height=55&lines=Hey!+It's+Marta+%F0%9F%91%8B%F0%9F%8F%BB;I'm+a+Software+Developer+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;I'm+from+Brazil+%F0%9F%87%A7%F0%9F%87%B7;" alt="mggcode" width="950" height="90">
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
--->
+
 
 <br>
 <br>
@@ -41,9 +40,14 @@ Sou um desenvolvedor full-stack com uma base sólida em **desenvolvimento front-
 
 Seja criando interfaces responsivas ou desenvolvendo backends seguros, sou movido por código limpo, usabilidade e performance.
 
+<br>
+
+
 ---
 
 ## 🔍 O que me diferencia?
+
+<br>
 
 💼 **Desenvolvedor Freelancer**  
 Entreguei soluções sob medida para clientes reais, com foco em performance, acessibilidade e segurança.
@@ -65,7 +69,11 @@ Acredito que um bom sistema começa com uma base segura.
 
 ---
 
+<br>
+
 ## 🚀 Atualmente explorando:
+
+<br>
 
 - DevOps & pipelines de CI/CD  
 - Autenticação avançada (OAuth2, JWT, etc.)  
@@ -80,14 +88,15 @@ Acredito que um bom sistema começa com uma base segura.
 
 <br>
 
-- 💻 &nbsp; I love exploring new technologies and building cool stuff.
-- 📰 &nbsp; Reading, writing & watching Tech Stuff whenever possible.
-- 💬 &nbsp; Ask me anything [here](https://github.com/mggcode/mggcode/issues)! I am happy to help.
+- 💻 &nbsp; Adoro explorar novas tecnologias e construir coisas legais.
+- 📰 &nbsp; ler, escrever e estudar Tecnologia sempre que possivel.
+- 💬 &nbsp; Faça uma pergunta [Aqui](https://github.com/mggcode/mggcode/issues)! Ficarei feliz em ajudar
 - 📫 &nbsp; Reach me out: mggeraldo@protonmail.com.
 
 <br>
 
 ---
+
 ## 💬 Vamos conversar?
 
 Estou sempre aberto a colaborações, oportunidades de aprendizado ou uma boa conversa sobre tecnologia.  
@@ -105,16 +114,10 @@ Estou sempre aberto a colaborações, oportunidades de aprendizado ou uma boa co
 
 
 
-
-<br>
-<!--
-<img align="left" width="100px"  src="https://github.com/mggcode/mggcode/blob/main/image/mgg.png?raw=true">I am a front-end developer with a solid academic background in Software Engineering and a postgratuation in quality and testing. With experience in freelance projects, I create customized solutions using HTML5, CSS3, JavaScript, React, and other modern technologies. My approach is user-centered, always aiming for intuitive interfaces and responsive design.
--->
-
+---
 
 <br>
 
-<a href="https://app.daily.dev/mggdev"><img src="https://api.daily.dev/devcards/v2/NTVMhhsT6Pq1Wbj345gSh.png?type=default&r=gox" align="right" width="200" alt="Marta Geraldo's Dev Card"/></a>
 
 
 
@@ -122,9 +125,16 @@ Estou sempre aberto a colaborações, oportunidades de aprendizado ou uma boa co
 
 
 <br> <br>
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="100%" height="2,5"/>
+<!--
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="100%" height="2,5"/>-->
 <br>
+
+<br>
+
+---
+
 ### <img src="https://github.com/MGBrave/certificados/blob/main/certificados/logomgg/lista.png" width="30"> Tech Stack  
+
 <br>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width= "40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width= "40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width= "40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width= "40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width= "40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width= "40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" width= "40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width= "40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width= "40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width= "40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width= "40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg"  width= "40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width= "40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"  width= "40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"  width= "40" /><img src="https://github.com/MGBrave/flight/blob/main/vitelogo.png?raw=true" alt="vite" width="50" height="40"/>
@@ -135,7 +145,13 @@ Estou sempre aberto a colaborações, oportunidades de aprendizado ou uma boa co
   <br>        
   <br>         
           
- 
+<br>
+
+<a href="https://app.daily.dev/mggdev"><img src="https://api.daily.dev/devcards/v2/NTVMhhsT6Pq1Wbj345gSh.png?type=default&r=gox" align="left" width="200" alt="Marta Geraldo's Dev Card"/></a>
+
+<br>
+
+ <br>
  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original-wordmark.svg" width= "30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width= "30" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width= "30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width= "30"/><img src="https://raw.githubusercontent.com/martageraldo/awesome-badges/f2e698d53e403180c7d390f97745e3e794ada8aa/img/inkscape.svg" width= "30"/>[![Xamp Badge](https://img.shields.io/badge/Xampp-F37623?style=social-square&logo=xampp&logoColor=white)]()
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=social-square&logo=Eclipse&logoColor=white)
