@@ -28,11 +28,17 @@
 
 **Full-Stack Developer | InfoSec Enthusiast | UX-Focused | Lifelong Learner**
 
+<br>
+
 Sou um desenvolvedor full-stack com uma base sólida em **desenvolvimento front-end**, formação acadêmica em **Engenharia de Software** e pós-graduação em **Qualidade e Testes**. Construo aplicações web confiáveis e centradas no usuário com tecnologias como:
+
+<br>
 
 - 🌐 **HTML5, CSS3, JavaScript, React**
 - ⚙️ **Node.js**
 - 🔐 **Boas práticas de Segurança da Informação**
+
+<br>
 
 Seja criando interfaces responsivas ou desenvolvendo backends seguros, sou movido por código limpo, usabilidade e performance.
 
@@ -65,28 +71,6 @@ Acredito que um bom sistema começa com uma base segura.
 - IA
 
 ---
-
-## 💬 Vamos conversar?
-
-Estou sempre aberto a colaborações, oportunidades de aprendizado ou uma boa conversa sobre tecnologia.  
-📫 **Entre em contato pelo**
-
-
-
-
-
-<br>
-<!--
-<img align="left" width="100px"  src="https://github.com/mggcode/mggcode/blob/main/image/mgg.png?raw=true">I am a front-end developer with a solid academic background in Software Engineering and a postgratuation in quality and testing. With experience in freelance projects, I create customized solutions using HTML5, CSS3, JavaScript, React, and other modern technologies. My approach is user-centered, always aiming for intuitive interfaces and responsive design.
-
-Currently, I also work as a Health Agent, where I develop skills in communication and data management. With a background in Human Resources, I am organized and detail-oriented, which helps me manage projects efficiently.
-
-I am always looking for new challenges and opportunities to grow professionally. Let's connect!
-
-<br>
-
-<a href="https://app.daily.dev/mggdev"><img src="https://api.daily.dev/devcards/v2/NTVMhhsT6Pq1Wbj345gSh.png?type=default&r=gox" align="right" width="200" alt="Marta Geraldo's Dev Card"/></a>
-
 ### Talking about Personal Stuff:
 
 <br>
@@ -97,9 +81,15 @@ I am always looking for new challenges and opportunities to grow professionally.
 - 📫 &nbsp; Reach me out: mggeraldo@protonmail.com.
 
 <br>
--->
 
-### Connect with Me 
+---
+## 💬 Vamos conversar?
+
+Estou sempre aberto a colaborações, oportunidades de aprendizado ou uma boa conversa sobre tecnologia.  
+
+<br>
+
+📫 **Entre em contato pelo**
 
 <br>
 
@@ -107,6 +97,22 @@ I am always looking for new challenges and opportunities to grow professionally.
 [![Codepen Badge](https://img.shields.io/badge/-Codepen-black?style=social-square&logo=Codepen&logoColor=white&link=https://codepen.io/martageraldo)](https://codepen.io/martageraldo)
 [![card Badge](https://img.shields.io/badge/ProtonMail-8B89CC?style=social-square&logo=protonmail&logoColor=white)](mailto:mggeraldo@protonmail.com)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=social-square&logo=Github&logoColor=white&link=https://github.com/martageraldo)](https://github.com/MGBrave)
+
+
+
+
+<br>
+<!--
+<img align="left" width="100px"  src="https://github.com/mggcode/mggcode/blob/main/image/mgg.png?raw=true">I am a front-end developer with a solid academic background in Software Engineering and a postgratuation in quality and testing. With experience in freelance projects, I create customized solutions using HTML5, CSS3, JavaScript, React, and other modern technologies. My approach is user-centered, always aiming for intuitive interfaces and responsive design.
+
+
+
+<br>
+
+<a href="https://app.daily.dev/mggdev"><img src="https://api.daily.dev/devcards/v2/NTVMhhsT6Pq1Wbj345gSh.png?type=default&r=gox" align="right" width="200" alt="Marta Geraldo's Dev Card"/></a>
+
+
+
 
 
 
@@ -173,6 +179,7 @@ I am always looking for new challenges and opportunities to grow professionally.
 <br>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="100%" height="1"/>
 
+---
 
 ## <img src="https://www.animatedimages.org/data/media/466/animated-thank-you-image-0156.gif" width="60px;" height="60px" alt="thanks"/>  My Followers
 
