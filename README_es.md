@@ -26,28 +26,63 @@
 <br>
 <br>
 
-### Más sobre mí
+# **Desarrollador Full-Stack | Entusiasta de la Ciberseguridad | Enfocado en UX | Aprendiz de por Vida**
 
-<br>
+Soy un desarrollador full-stack con una sólida base en **desarrollo front-end**, formación académica en **Ingeniería de Software**, y una especialización en **Calidad y Pruebas**. Construyo aplicaciones web confiables y centradas en el usuario utilizando tecnologías como:
 
-<img align="left" width="100px"  src="https://github.com/mggcode/mggcode/blob/main/image/mgg.png?raw=true">Soy desarrollador front-end con una sólida formación académica en Ingeniería de Software y una especialización en calidad y pruebas. Con experiencia en proyectos freelance, creo soluciones personalizadas utilizando HTML5, CSS3, JavaScript, React y otras tecnologías modernas. Mi enfoque está centrado en el usuario, siempre buscando interfaces intuitivas y un diseño responsivo.
+- 🌐 **HTML5, CSS3, JavaScript, React**  
+- ⚙️ **Node.js**  
+- 🔐 **Buenas prácticas de Seguridad de la Información**
 
-Actualmente, también trabajo como Agente de Salud, donde desarrollo habilidades en comunicación y gestión de datos. Con un historial en Recursos Humanos, soy organizado y atento a los detalles, lo que me ayuda a gestionar proyectos de manera eficiente.
+Ya sea creando interfaces responsivas o desarrollando backends seguros, me motiva escribir código limpio, la usabilidad y el rendimiento.
 
-Siempre estoy en busca de nuevos desafíos y oportunidades para crecer profesionalmente. ¡Conectemos!
+---
 
-<br>
+## 🔍 ¿Qué me diferencia?
 
-<a href="https://app.daily.dev/mggdev"><img src="https://api.daily.dev/devcards/v2/NTVMhhsT6Pq1Wbj345gSh.png?type=default&r=gox" align="right" width="200" alt="Marta Geraldo's Dev Card"/></a>
+💼 **Desarrollador Freelancer**  
+He entregado soluciones personalizadas para clientes reales, enfocándome en rendimiento, accesibilidad y seguridad.
 
-### Hablando de cosas personales:
+👨‍⚕️ **Agente de Salud**  
+Desarrollé habilidades en **comunicación**, **organización de datos** y **pensamiento crítico**, esenciales tanto en tecnología como en el área de la salud.
 
-<br>
+👥 **Experiencia en Recursos Humanos**  
+Adquirí capacidad para **gestionar equipos**, **cumplir plazos** y mantener una **documentación detallada y precisa**.
 
-- 💻 &nbsp; Me encanta explorar nuevas tecnologías y crear cosas interesantes.
-- 📰 &nbsp; Leer, escribir y ver videos de tecnologia siempre que sea posible.
-- 💬 &nbsp; Pregúntame alguma cosa [aqui](https://github.com/mggcode/mggcode/issues)! Estaré feliz de poder ayudar.
-- 📫 &nbsp; Contáctame: mggeraldo@protonmail.com.
+🔒 **Desarrollador enfocado en seguridad**  
+Creo firmemente que un buen sistema comienza con una base segura.
+
+---
+
+## 🚀 Explorando actualmente:
+
+- DevOps y pipelines de CI/CD  
+- Autenticación avanzada (OAuth2, JWT, etc.)  
+- Pruebas de penetración y hacking ético  
+- Accesibilidad web y optimización del rendimiento  
+- Ciberseguridad  
+- Tecnología Operacional (OT)  
+- Inteligencia Artificial
+
+---
+
+### 👋 Hablando de cosas personales:
+
+- 💻 &nbsp; Me encanta explorar nuevas tecnologías y construir cosas geniales  
+- 📰 &nbsp; Leer, escribir y estudiar sobre tecnología siempre que puedo  
+- 💬 &nbsp; ¡Hazme una pregunta [aquí](https://github.com/mggcode/mggcode/issues)! Estaré encantado de ayudarte  
+- 📫 &nbsp; Contáctame en: **mggeraldo@protonmail.com**
+
+---
+
+## 💬 ¿Hablamos?
+
+Siempre estoy abierto a colaboraciones, oportunidades de aprendizaje o una buena conversación sobre tecnología.
+
+📫 **Puedes contactarme a través de**:
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=social-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marta-geraldo/)](https://www.linkedin.com/in/marta-geraldo/)  
+[![Codepen Badge](https://img.shields.io/badge/-)]()
 
 <br>
 
