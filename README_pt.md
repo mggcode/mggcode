@@ -1,22 +1,16 @@
-
-
-![Marta Geraldo](https://raw.githubusercontent.com/mggcode/mggcode/3403038fdf82ca1bada6f2e632be062f3ff8936d/svg/header.svg)
+<!--![Marta Geraldo](https://raw.githubusercontent.com/mggcode/mggcode/3403038fdf82ca1bada6f2e632be062f3ff8936d/svg/header.svg)-->
 
 <table align="right">
  <tr><td><a href="README.md"><img src="image/us-flag.png" height="15"> English</a></td></tr>
- <tr><td><a href="README_fr.md"><img src="image/sp_flag.png" width="15" height="10">Español</a></td></tr>
+ <tr><td><a href="README_es.md"><img src="image/sp_flag.png" width="15" height="10">Español</a></td></tr>
   <tr><td><a href="README_pt.md"><img src="image/br-flag.png" width="15" height="15"> Português</a></td></tr>
 </table>
 
 <br>
-
-
-
-
-
 <br>
-<br>
-<img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=50&duration=3800&color=447FF7&background=FFFFFF00&center=true&vCenter=true&width=650&height=55&lines=Olá!+%F0%9F%91%8B%F0%9F%8F%BB+Sou+a+Marta;brasileira;Desenvolvedora+de+Software+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;" alt="mggcode" width="950" height="90">
+
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=50&duration=3800&color=447FF7&background=FFFFFF00&center=true&vCenter=true&width=650&height=55&lines=Hey!+It's+Marta+%F0%9F%91%8B%F0%9F%8F%BB;I'm+a+Software+Developer+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;I'm+from+Brazil+%F0%9F%87%A7%F0%9F%87%B7;" alt="mggcode" width="950" height="90">
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
@@ -26,31 +20,90 @@
 <br>
 <br>
 
-### Sobre mim
+
+<br>
+<br>
+
+**Full-Stack Developer | InfoSec Enthusiast | UX-Focused | Lifelong Learner**
 
 <br>
 
-<img align="left" width="100px"  src="https://github.com/mggcode/mggcode/blob/main/image/mgg.png?raw=true">Sou desenvolvedor front-end com sólida formação acadêmica em Engenharia de Software e especialização em qualidade e testes. Com experiência em projetos autônomos, crio soluções personalizadas utilizando HTML5, CSS3, JavaScript, React e outras tecnologias modernas. Minha abordagem é centrada na experiência do usuário, sempre buscando interfaces intuitivas e design responsivo.
-
-Atualmente, também atuo como Agente de Saúde, onde desenvolvo habilidades em comunicação e gestão de dados. Com um histórico em Recursos Humanos, sou organizado e atento aos detalhes, o que me ajuda a gerenciar projetos de forma eficiente.
-
-Estou sempre em busca de novos desafios e oportunidades para crescer profissionalmente.
-<br>
-
-<a href="https://app.daily.dev/mggdev"><img src="https://api.daily.dev/devcards/v2/NTVMhhsT6Pq1Wbj345gSh.png?type=default&r=gox" align="right" width="200" alt="Marta Geraldo's Dev Card"/></a>
-
-### Mais sobre mim:
+Sou um desenvolvedor full-stack com uma base sólida em **desenvolvimento front-end**, formação acadêmica em **Engenharia de Software** e pós-graduação em **Qualidade e Testes**. Construo aplicações web confiáveis e centradas no usuário com tecnologias como:
 
 <br>
 
-- 💻 &nbsp; Gosto explorar novas tecnologias e construir coisas legais.
-- 📰 &nbsp; Ler, escrever, estudar e assistir videos sobre tecnologia sempre que possível.
-- 💬 &nbsp; Quer saber algo mais? [aqui](https://github.com/mggcode/mggcode/issues)! Ficarei feliz em ajudar.
-- 📫 &nbsp; Entre em contato comigo: mggeraldo@protonmail.com.
+- 🌐 **HTML5, CSS3, JavaScript, React**
+- ⚙️ **Node.js**
+- 🔐 **Boas práticas de Segurança da Informação**
 
 <br>
 
-###  Vamos nos conectar!
+Seja criando interfaces responsivas ou desenvolvendo backends seguros, sou movido por código limpo, usabilidade e performance.
+
+<br>
+
+
+---
+
+## 🔍 O que me diferencia?
+
+<br>
+
+💼 **Desenvolvedor Freelancer**  
+Entreguei soluções sob medida para clientes reais, com foco em performance, acessibilidade e segurança.
+
+<br>
+
+👨‍⚕️ **Agente de Saúde**  
+Aprimorei habilidades em **comunicação**, **organização de dados** e **raciocínio crítico** – fundamentais tanto na tecnologia quanto na área da saúde.
+
+<br>
+
+👥 **Experiência em Recursos Humanos**  
+Desenvolvi capacidade para **gerenciar equipes**, **cumprir prazos** e manter uma **documentação detalhada e precisa**.
+
+<br>
+
+🔒 **Desenvolvedor com foco em segurança**  
+Acredito que um bom sistema começa com uma base segura.
+
+---
+
+<br>
+
+## 🚀 Atualmente explorando:
+
+<br>
+
+- DevOps & pipelines de CI/CD  
+- Autenticação avançada (OAuth2, JWT, etc.)  
+- Testes de penetração e hacking ético  
+- Acessibilidade web e otimização de performance
+- Cibersegurança
+- OT
+- IA
+
+---
+### Talking about Personal Stuff:
+
+<br>
+
+- 💻 &nbsp; Adoro explorar novas tecnologias e construir coisas legais.
+- 📰 &nbsp; ler, escrever e estudar Tecnologia sempre que possivel.
+- 💬 &nbsp; Faça uma pergunta [Aqui](https://github.com/mggcode/mggcode/issues)! Ficarei feliz em ajudar
+- 📫 &nbsp; Reach me out: mggeraldo@protonmail.com.
+
+<br>
+
+---
+
+## 💬 Vamos conversar?
+
+Estou sempre aberto a colaborações, oportunidades de aprendizado ou uma boa conversa sobre tecnologia.  
+
+<br>
+
+📫 **Entre em contato pelo**
 
 <br>
 
@@ -61,10 +114,27 @@ Estou sempre em busca de novos desafios e oportunidades para crescer profissiona
 
 
 
-<br> <br>
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="100%" height="2,5"/>
+---
+
 <br>
+
+
+
+
+
+
+
+<br> <br>
+<!--
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="100%" height="2,5"/>-->
+<br>
+
+<br>
+
+---
+
 ### <img src="https://github.com/MGBrave/certificados/blob/main/certificados/logomgg/lista.png" width="30"> Tech Stack  
+
 <br>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width= "40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width= "40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width= "40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width= "40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width= "40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width= "40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" width= "40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width= "40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width= "40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width= "40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width= "40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg"  width= "40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width= "40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"  width= "40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"  width= "40" /><img src="https://github.com/MGBrave/flight/blob/main/vitelogo.png?raw=true" alt="vite" width="50" height="40"/>
@@ -75,7 +145,13 @@ Estou sempre em busca de novos desafios e oportunidades para crescer profissiona
   <br>        
   <br>         
           
- 
+<br>
+
+<a href="https://app.daily.dev/mggdev"><img src="https://api.daily.dev/devcards/v2/NTVMhhsT6Pq1Wbj345gSh.png?type=default&r=gox" align="left" width="200" alt="Marta Geraldo's Dev Card"/></a>
+
+<br>
+
+ <br>
  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original-wordmark.svg" width= "30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width= "30" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width= "30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width= "30"/><img src="https://raw.githubusercontent.com/martageraldo/awesome-badges/f2e698d53e403180c7d390f97745e3e794ada8aa/img/inkscape.svg" width= "30"/>[![Xamp Badge](https://img.shields.io/badge/Xampp-F37623?style=social-square&logo=xampp&logoColor=white)]()
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=social-square&logo=Eclipse&logoColor=white)
@@ -96,33 +172,40 @@ Estou sempre em busca de novos desafios e oportunidades para crescer profissiona
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="100%" height="1"/>
 
 
-## <img src="https://github.com/MGBrave/certificados/blob/main/certificados/logomgg/metrics.png" width="35"> Análises do  GitHub 
+## <img src="https://github.com/MGBrave/certificados/blob/main/certificados/logomgg/metrics.png" width="35"> GitHub Analytics 
 
 <br>
 
 
-[![status](https://github-readme-stats.vercel.app/api?username=mggcode&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=6a11cb&text_color=FFFFFF&bg_color=0,FF057C,8D0B93,321575)](https://github.com/mggcode)  ![ Badge](https://github-readme-stats.vercel.app/api/top-langs/?username=mggcode&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=fff&title_color=fff&icon_color=6a11cb&bg_color=0,321575,8D0B93,FF057C)
-
+[![status](https://github-readme-stats.vercel.app/api?username=mggcode&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=6a11cb&text_color=FFFFFF&bg_color=0,FF057C,8D0B93,321575)](https://github.com/mggcode)  ![ Badge](https://github-readme-stats.vercel.app/api/top-langs/?username=mggcode&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=fff&title_color=fff&icon_color=6a11cb&bg_color=0,321575,8D0B93,FF057C) <img src="http://github-readme-streak-stats.herokuapp.com/?user=mggcode&theme=radical" width="46%" height=""/>
 <br> 
+
+
+
  <br>
 
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="100%" height="1"/>
 
-<br>
-<br>
 
-<img align="center" src="https://github.com/mggcode/mggcode/blob/main/image/dino.gif?raw=true"  width="90%"/>
 
-<br>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="100%" height="1"/>
 
 
-## <img src="https://www.animatedimages.org/data/media/466/animated-thank-you-image-0156.gif" width="60px;"  height="60px" alt="thanks"/>  Meus Seguidores
+<br>
+<br>
+
+<img src="https://github.com/mggcode/mggcode/blob/main/image/dino.gif?raw=true" width="60%"/>
+
+<br>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="100%" height="1"/>
+
+---
+
+## <img src="https://www.animatedimages.org/data/media/466/animated-thank-you-image-0156.gif" width="60px;" height="60px" alt="thanks"/>  My Followers
 
 <details>
-<summary>Expandir</summary>
+<summary>Expand</summary>
 
 <br>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0370.gif" width="100%" height="5px"></img>
@@ -557,6 +640,13 @@ Estou sempre em busca de novos desafios e oportunidades para crescer profissiona
       <a href="https://github.com/Adriano360">Adriano360</a>
     </td> 
      <td align="center">
+      <a href=" https://github.com/XiaomingX">
+        <img src="https://avatars.githubusercontent.com/u/5387930?v=4" width="50px;" alt="XiaomingX"/>
+      </a>
+      <br/>
+      <a href="https://github.com/XiaomingX">XiaomingX</a>
+    </td> 
+     <td align="center">
       <a href="https://github.com/Andre-1845">
        <img src="https://avatars.githubusercontent.com/u/132413967?v=4" style="border-radius:50" width="50px;" alt="Andre-1845"/>
       </a>
@@ -569,7 +659,6 @@ Estou sempre em busca de novos desafios e oportunidades para crescer profissiona
     **********************
      -->
 </table>
-
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0370.gif" width="100%" height="5px"/>
 
 </details>
@@ -579,7 +668,7 @@ Estou sempre em busca de novos desafios e oportunidades para crescer profissiona
 
 <br>
 
- ## 📝 Meus últimos posts
+ ## 📝 My latest posts 
  - <img src="https://github.com/mggcode/mggcode/blob/main/image/dioiconbg.png?raw=true" width="20px;" alt=""/>[Porque a Cibersegurança é importante](https://web.dio.me/articles/por-que-a-ciberseguranca-e-importante?back=%2Farticles&page=1&order=oldest) <br>
 - <img src="https://github.com/mggcode/mggcode/blob/main/image/dioiconbg.png?raw=true" width="20px;" alt=""/> [Como Programadores de Software Podem Reduzir seus Vieses de Confirmação e Preconceitos em Seus Códigos](https://web.dio.me/articles/como-programadores-de-software-podem-reduzir-seus-vieses-de-confirmacao-e-preconceitos-em-seus-codigos?back=%2Farticles&page=1&order=oldest) <br>
 - <img src="https://github.com/mggcode/mggcode/blob/main/image/dioiconbg.png?raw=true" width="20px;" alt=""/> [Revolução da IA nos Eletrodomésticos: O Impacto na Gestão da Casa e no Trabalho Doméstico](https://web.dio.me/articles/a-revolucao-da-ia-nos-eletrodomesticos-o-impacto-na-gestao-da-casa-e-no-trabalho-domestico?back=%2Farticles&page=1&order=oldest) <br>
@@ -605,7 +694,7 @@ Estou sempre em busca de novos desafios e oportunidades para crescer profissiona
 
 <br>
 
-### Tocando agora🎧
+### Now Playing 🎧
 
 [![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/playlist/1vB47FRDNhBzSLXiYHe11J)
 <br/>
@@ -632,13 +721,12 @@ Estou sempre em busca de novos desafios e oportunidades para crescer profissiona
 
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝During the production of Toy Story 2, Pixar accidentally deleted the entire movie from its servers. The movie was saved by an employee, a new mother, who worked from home and had the data saved on her personal computer.❞</i>
+<i>❝“Yes, we have a dress code. You have to dress.”— Scott McNealy, co-founder of Sun Microsystems   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
  </a>
+
  
-![Visitas](https://raw.githubusercontent.com/mggcode/mggcode/4764afbb2b85daea209803288017ce767d2f5b63/image/visitsvg/visita.svg)
+ ![Visitas](https://raw.githubusercontent.com/mggcode/mggcode/4764afbb2b85daea209803288017ce767d2f5b63/image/visitsvg/visita_en.svg)
+
 
 ![Visitor Count](https://profile-counter.glitch.me/MGBrave/count.svg)
-
-
-
