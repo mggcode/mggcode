@@ -692,7 +692,7 @@ I'm always open to collaborations, learning opportunities, or a good tech chat.
 
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝The term “World Wide Web” was invented by Tim Berners in 1990.❞</i>
+<i>❝“As data scientists, our job is to extract signal from noise.”— Daniel Tunkelang❞</i>
 <!--ENDS_HERE_QUOTE_README-->
  </a>
 
