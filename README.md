@@ -692,7 +692,7 @@ I'm always open to collaborations, learning opportunities, or a good tech chat.
 
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝The house where Bill Gates lives, was designed using a Macintosh computer.❞</i>
+<i>❝“The great thing about predictions is that you can be wrong.”— Chris Wiggins❞</i>
 <!--ENDS_HERE_QUOTE_README-->
  </a>
 
