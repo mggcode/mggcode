@@ -692,7 +692,7 @@ I'm always open to collaborations, learning opportunities, or a good tech chat.
 
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝According to a survey, most of the apps in your android device leaks your data, so be aware.❞</i>
+<i>❝Sony released a kit that allows PS2s (Linux for PlayStation 2) to be used as a personal computer.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
  </a>
 
