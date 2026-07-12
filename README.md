@@ -692,7 +692,7 @@ I'm always open to collaborations, learning opportunities, or a good tech chat.
 
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“If the code and the comments do not match, possibly both are incorrect.”— Norm Schryer   ❞</i>
+<i>❝“I think it’s a new feature.  Don’t tell anyone it was an accident.”— Larry Wall   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
  </a>
 
