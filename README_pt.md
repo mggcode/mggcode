@@ -1,70 +1,74 @@
-# Hi, I'm Marta 👋
+# Olá, eu sou a Marta 👋
 
-### Software Engineer | Front-End & Full-Stack Development
+### Engenheira de Software | Desenvolvimento Front-End & Full-Stack
 
-I'm a Software Engineering professional focused on building
-responsive, user-centered web applications.
+Sou profissional de Engenharia de Software, com foco no desenvolvimento de
+aplicações web responsivas e centradas na experiência do usuário.
 
-My current work combines software development, UI/UX and
-security-oriented thinking, with hands-on experience in freelance
-projects and real-world web development.
+Meu trabalho atual combina desenvolvimento de software, UI/UX e uma abordagem
+orientada à segurança, com experiência prática em projetos freelance
+e no desenvolvimento de soluções web para ambientes reais.
 
-## 🛠 Tech Stack
+## 🛠 Stack Tecnológico
 
-**Front-End**
+**Front-End**  
 JavaScript • React • HTML5 • CSS3 • Bootstrap
 
-**Development**
+**Desenvolvimento**  
 Git • GitHub • Python • MySQL
 
-**Design**
-Figma • Responsive Design • UI/UX
+**Design**  
+Figma • Design Responsivo • UI/UX
 
-**Additional Knowledge**
-Software Testing • Software Quality • Cybersecurity
+**Conhecimentos Adicionais**  
+Testes de Software • Qualidade de Software • Cibersegurança
 
-## 🚀 Featured Work
+## 🚀 Projetos em Destaque
 
 ### MTA Cyber Intelligence
-Production website for a cybersecurity and digital intelligence business.
 
-- Responsive web development
-- JavaScript interactions
-- Dark / light theme
-- Blog architecture
-- UI/UX improvements
-- Ongoing code refactoring
-- Planned migration to React
+Site em produção desenvolvido para uma empresa especializada em
+cibersegurança e inteligência digital.
+
+- Desenvolvimento web responsivo
+- Interações com JavaScript
+- Temas dark e light
+- Arquitetura do blog
+- Melhorias de UI/UX
+- Refatoração contínua do código
+- Migração planejada para React
 
 🌐 mtacyber.com
 
 ### Flight
-React-based front-end project built with JavaScript, Sass and Vite.
+
+Projeto Front-End desenvolvido com React, JavaScript, Sass e Vite.
 
 ### Data Financial
-Financial web interface developed with React and Tailwind CSS.
 
-### Software Engineering Project
-Academic software engineering project covering interface development
-and application structure.
+Interface web financeira desenvolvida com React e Tailwind CSS.
 
-## 🌱 Currently Improving
+### Projeto de Engenharia de Software
 
-- React architecture
+Projeto acadêmico de Engenharia de Software envolvendo desenvolvimento
+de interfaces e estruturação de aplicações.
+
+## 🌱 Atualmente Aprimorando
+
+- Arquitetura com React
 - JavaScript
-- Software testing
-- Clean and maintainable code
-- Web accessibility
-- Secure development practices
+- Testes de software
+- Código limpo e de fácil manutenção
+- Acessibilidade web
+- Práticas de desenvolvimento seguro
 
-## 🎓 Background
+## 🎓 Formação
 
-- Software Engineering
-- Postgraduate studies in Software Engineering, Quality & Testing
-- Systems Analysis and Development
+- Engenharia de Software
+- Pós-graduação em Engenharia de Software, Qualidade e Testes
+- Análise e Desenvolvimento de Sistemas
 
-## 📫 Connect
-
+## 📫 Contato
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=social-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marta-geraldo/)](https://www.linkedin.com/in/marta-geraldo/)
 [![Codepen Badge](https://img.shields.io/badge/-Codepen-black?style=social-square&logo=Codepen&logoColor=white&link=https://codepen.io/martageraldo)](https://codepen.io/martageraldo)
 [![card Badge](https://img.shields.io/badge/ProtonMail-8B89CC?style=social-square&logo=protonmail&logoColor=white)](mailto:mggeraldo@protonmail.com)
